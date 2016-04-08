@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff srcLang="en-US" trgLang="fr-fr" version="2.0" xml:space="default" xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+  <file id="1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="oltranslationpriority">
+        </mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="olfilehash">3c5d8e38658abbfdea6f9a955816dbb181b0e0e8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <group id="content">
+      <unit id="101">
+        <segment state="initial">
+          <source>Light</source>
+          <target>Light</target>
+        </segment>
+      </unit>
+      <unit id="102">
+        <segment state="initial">
+          <source>Dark</source>
+          <target>Dark</target>
+        </segment>
+      </unit>
+      <unit id="103">
+        <segment state="initial">
+          <source>Comments</source>
+          <target>Comments</target>
+        </segment>
+      </unit>
+      <unit id="104">
+        <segment state="initial">
+          <source>Edit</source>
+          <target>Edit</target>
+        </segment>
+      </unit>
+      <unit id="105">
+        <segment state="initial">
+          <source>Share</source>
+          <target>Share</target>
+        </segment>
+      </unit>
+      <unit id="106">
+        <segment state="initial">
+          <source>Twitter</source>
+          <target>Twitter</target>
+        </segment>
+      </unit>
+      <unit id="107">
+        <segment state="initial">
+          <source>Facebook</source>
+          <target>Facebook</target>
+        </segment>
+      </unit>
+      <unit id="108">
+        <segment state="initial">
+          <source>Slack</source>
+          <target>Slack</target>
+        </segment>
+      </unit>
+      <unit id="109">
+        <segment state="initial">
+          <source>Options</source>
+          <target>Options</target>
+        </segment>
+      </unit>
+      <unit id="110">
+        <segment state="initial">
+          <source>Author Name</source>
+          <target>Author Name</target>
+        </segment>
+      </unit>
+      <unit id="111">
+        <segment state="initial">
+          <source>In this article</source>
+          <target>In this article</target>
+        </segment>
+      </unit>
+      <unit id="112">
+        <segment state="initial">
+          <source>min to read</source>
+          <target>min to read</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
