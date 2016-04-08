@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff srcLang="en-US" trgLang="sv-se" version="2.0" xml:space="default" xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+  <file id="1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="oltranslationpriority">
+        </mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="olfilehash">740f01f1079ba88b4a6e9e7992cfc81031de2375</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <group id="content">
+      <unit id="101">
+        <segment state="initial">
+          <source>Microsoft</source>
+          <target>Microsoft</target>
+        </segment>
+      </unit>
+      <unit id="102">
+        <segment state="initial">
+          <source>By using this site you consent to cookies for analysis, relevance and advertising</source>
+          <target>By using this site you consent to cookies for analysis, relevance and advertising</target>
+        </segment>
+      </unit>
+      <unit id="103">
+        <segment state="initial">
+          <source>Read more</source>
+          <target>Read more</target>
+        </segment>
+      </unit>
+      <unit id="104">
+        <segment state="initial">
+          <source>close</source>
+          <target>close</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
