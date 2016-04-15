@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff srcLang="en-US" trgLang="nl-nl" version="2.0" xml:space="default" xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+  <file id="1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="oltranslationpriority">
+        </mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="olfilehash">c97a808e431cf645a05f899e1031d2052b78306b</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <group id="content">
+      <unit id="101">
+        <segment state="initial">
+          <source>uid: try.it</source>
+          <target>uid: try.it</target>
+        </segment>
+      </unit>
+      <unit id="102">
+        <segment state="initial">
+          <source>name: Try It!</source>
+          <target>name: Try It!</target>
+        </segment>
+      </unit>
+      <unit id="103">
+        <segment state="initial">
+          <source>uid: test.request</source>
+          <target>uid: test.request</target>
+        </segment>
+      </unit>
+      <unit id="104">
+        <segment state="initial">
+          <source>name: Test Request</source>
+          <target>name: Test Request</target>
+        </segment>
+      </unit>
+      <unit id="105">
+        <segment state="initial">
+          <source>uid: sample.request</source>
+          <target>uid: sample.request</target>
+        </segment>
+      </unit>
+      <unit id="106">
+        <segment state="initial">
+          <source>name: Sample Request</source>
+          <target>name: Sample Request</target>
+        </segment>
+      </unit>
+      <unit id="107">
+        <segment state="initial">
+          <source>uid: sample.response</source>
+          <target>uid: sample.response</target>
+        </segment>
+      </unit>
+      <unit id="108">
+        <segment state="initial">
+          <source>name: Sample Response</source>
+          <target>name: Sample Response</target>
+        </segment>
+      </unit>
+      <unit id="109">
+        <segment state="initial">
+          <source>uid: response.header</source>
+          <target>uid: response.header</target>
+        </segment>
+      </unit>
+      <unit id="110">
+        <segment state="initial">
+          <source>name: Response Header</source>
+          <target>name: Response Header</target>
+        </segment>
+      </unit>
+      <unit id="111">
+        <segment state="initial">
+          <source>uid: response.code</source>
+          <target>uid: response.code</target>
+        </segment>
+      </unit>
+      <unit id="112">
+        <segment state="initial">
+          <source>name: Response Code</source>
+          <target>name: Response Code</target>
+        </segment>
+      </unit>
+      <unit id="113">
+        <segment state="initial">
+          <source>uid: theme.light</source>
+          <target>uid: theme.light</target>
+        </segment>
+      </unit>
+      <unit id="114">
+        <segment state="initial">
+          <source>name: Light</source>
+          <target>name: Light</target>
+        </segment>
+      </unit>
+      <unit id="115">
+        <segment state="initial">
+          <source>uid: theme.dark</source>
+          <target>uid: theme.dark</target>
+        </segment>
+      </unit>
+      <unit id="116">
+        <segment state="initial">
+          <source>name: Dark</source>
+          <target>name: Dark</target>
+        </segment>
+      </unit>
+      <unit id="117">
+        <segment state="initial">
+          <source>uid: edit</source>
+          <target>uid: edit</target>
+        </segment>
+      </unit>
+      <unit id="118">
+        <segment state="initial">
+          <source>name: Edit</source>
+          <target>name: Edit</target>
+        </segment>
+      </unit>
+      <unit id="119">
+        <segment state="initial">
+          <source>uid: view.source</source>
+          <target>uid: view.source</target>
+        </segment>
+      </unit>
+      <unit id="120">
+        <segment state="initial">
+          <source>name: View.Source</source>
+          <target>name: View.Source</target>
+        </segment>
+      </unit>
+      <unit id="121">
+        <segment state="initial">
+          <source>uid: share</source>
+          <target>uid: share</target>
+        </segment>
+      </unit>
+      <unit id="122">
+        <segment state="initial">
+          <source>name: Share</source>
+          <target>name: Share</target>
+        </segment>
+      </unit>
+      <unit id="123">
+        <segment state="initial">
+          <source>uid: twitter</source>
+          <target>uid: twitter</target>
+        </segment>
+      </unit>
+      <unit id="124">
+        <segment state="initial">
+          <source>name: Twitter</source>
+          <target>name: Twitter</target>
+        </segment>
+      </unit>
+      <unit id="125">
+        <segment state="initial">
+          <source>uid: facebook</source>
+          <target>uid: facebook</target>
+        </segment>
+      </unit>
+      <unit id="126">
+        <segment state="initial">
+          <source>name: Facebook</source>
+          <target>name: Facebook</target>
+        </segment>
+      </unit>
+      <unit id="127">
+        <segment state="initial">
+          <source>uid: platform</source>
+          <target>uid: platform</target>
+        </segment>
+      </unit>
+      <unit id="128">
+        <segment state="initial">
+          <source>name: Platform</source>
+          <target>name: Platform</target>
+        </segment>
+      </unit>
+      <unit id="129">
+        <segment state="initial">
+          <source>uid: language</source>
+          <target>uid: language</target>
+        </segment>
+      </unit>
+      <unit id="130">
+        <segment state="initial">
+          <source>name: Language</source>
+          <target>name: Language</target>
+        </segment>
+      </unit>
+      <unit id="131">
+        <segment state="initial">
+          <source>uid: theme</source>
+          <target>uid: theme</target>
+        </segment>
+      </unit>
+      <unit id="132">
+        <segment state="initial">
+          <source>name: Theme</source>
+          <target>name: Theme</target>
+        </segment>
+      </unit>
+      <unit id="133">
+        <segment state="initial">
+          <source>uid: options</source>
+          <target>uid: options</target>
+        </segment>
+      </unit>
+      <unit id="134">
+        <segment state="initial">
+          <source>name: Options</source>
+          <target>name: Options</target>
+        </segment>
+      </unit>
+      <unit id="135">
+        <segment state="initial">
+          <source>uid: more</source>
+          <target>uid: more</target>
+        </segment>
+      </unit>
+      <unit id="136">
+        <segment state="initial">
+          <source>name: More</source>
+          <target>name: More</target>
+        </segment>
+      </unit>
+      <unit id="137">
+        <segment state="initial">
+          <source>uid: author.name</source>
+          <target>uid: author.name</target>
+        </segment>
+      </unit>
+      <unit id="138">
+        <segment state="initial">
+          <source>name: Author Name</source>
+          <target>name: Author Name</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
