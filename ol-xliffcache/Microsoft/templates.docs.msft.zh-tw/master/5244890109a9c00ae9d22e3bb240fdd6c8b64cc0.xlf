@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff srcLang="en-US" trgLang="zh-tw" version="2.0" xml:space="default" xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+  <file id="1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="oltranslationpriority">
+        </mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="olfilehash">5244890109a9c00ae9d22e3bb240fdd6c8b64cc0</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <group id="content">
+      <unit id="101">
+        <segment state="initial">
+          <source>uid: microsoft</source>
+          <target>uid: microsoft</target>
+        </segment>
+      </unit>
+      <unit id="102">
+        <segment state="initial">
+          <source>name: Microsoft</source>
+          <target>name: Microsoft</target>
+        </segment>
+      </unit>
+      <unit id="103">
+        <segment state="initial">
+          <source>uid: cookie.consent.europe</source>
+          <target>uid: cookie.consent.europe</target>
+        </segment>
+      </unit>
+      <unit id="104">
+        <segment state="initial">
+          <source>name: By using this site you consent to cookies for analysis, relevance and advertising</source>
+          <target>name: By using this site you consent to cookies for analysis, relevance and advertising</target>
+        </segment>
+      </unit>
+      <unit id="105">
+        <segment state="initial">
+          <source>uid: readmore</source>
+          <target>uid: readmore</target>
+        </segment>
+      </unit>
+      <unit id="106">
+        <segment state="initial">
+          <source>name: Read more</source>
+          <target>name: Read more</target>
+        </segment>
+      </unit>
+      <unit id="107">
+        <segment state="initial">
+          <source>uid: close</source>
+          <target>uid: close</target>
+        </segment>
+      </unit>
+      <unit id="108">
+        <segment state="initial">
+          <source>name: close</source>
+          <target>name: close</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
