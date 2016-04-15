@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff srcLang="en-US" trgLang="nl-be" version="2.0" xml:space="default" xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+  <file id="1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="oltranslationpriority">
+        </mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="olfilehash">4b57dcee8010aca49c5bc567fc7105656d291ddd</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <group id="content">
+      <unit id="101">
+        <segment state="initial">
+          <source>uid: theme.light</source>
+          <target>uid: theme.light</target>
+        </segment>
+      </unit>
+      <unit id="102">
+        <segment state="initial">
+          <source>name: Light</source>
+          <target>name: Light</target>
+        </segment>
+      </unit>
+      <unit id="103">
+        <segment state="initial">
+          <source>uid: theme.dark</source>
+          <target>uid: theme.dark</target>
+        </segment>
+      </unit>
+      <unit id="104">
+        <segment state="initial">
+          <source>name: Dark</source>
+          <target>name: Dark</target>
+        </segment>
+      </unit>
+      <unit id="105">
+        <segment state="initial">
+          <source>uid: comments</source>
+          <target>uid: comments</target>
+        </segment>
+      </unit>
+      <unit id="106">
+        <segment state="initial">
+          <source>name: Comments</source>
+          <target>name: Comments</target>
+        </segment>
+      </unit>
+      <unit id="107">
+        <segment state="initial">
+          <source>uid: edit</source>
+          <target>uid: edit</target>
+        </segment>
+      </unit>
+      <unit id="108">
+        <segment state="initial">
+          <source>name: Edit</source>
+          <target>name: Edit</target>
+        </segment>
+      </unit>
+      <unit id="109">
+        <segment state="initial">
+          <source>uid: share</source>
+          <target>uid: share</target>
+        </segment>
+      </unit>
+      <unit id="110">
+        <segment state="initial">
+          <source>name: Share</source>
+          <target>name: Share</target>
+        </segment>
+      </unit>
+      <unit id="111">
+        <segment state="initial">
+          <source>uid: twitter</source>
+          <target>uid: twitter</target>
+        </segment>
+      </unit>
+      <unit id="112">
+        <segment state="initial">
+          <source>name: Twitter</source>
+          <target>name: Twitter</target>
+        </segment>
+      </unit>
+      <unit id="113">
+        <segment state="initial">
+          <source>uid: facebook</source>
+          <target>uid: facebook</target>
+        </segment>
+      </unit>
+      <unit id="114">
+        <segment state="initial">
+          <source>name: Facebook</source>
+          <target>name: Facebook</target>
+        </segment>
+      </unit>
+      <unit id="115">
+        <segment state="initial">
+          <source>uid: slack</source>
+          <target>uid: slack</target>
+        </segment>
+      </unit>
+      <unit id="116">
+        <segment state="initial">
+          <source>name: Slack</source>
+          <target>name: Slack</target>
+        </segment>
+      </unit>
+      <unit id="117">
+        <segment state="initial">
+          <source>uid: options</source>
+          <target>uid: options</target>
+        </segment>
+      </unit>
+      <unit id="118">
+        <segment state="initial">
+          <source>name: Options</source>
+          <target>name: Options</target>
+        </segment>
+      </unit>
+      <unit id="119">
+        <segment state="initial">
+          <source>uid: author.name</source>
+          <target>uid: author.name</target>
+        </segment>
+      </unit>
+      <unit id="120">
+        <segment state="initial">
+          <source>name: Author Name</source>
+          <target>name: Author Name</target>
+        </segment>
+      </unit>
+      <unit id="121">
+        <segment state="initial">
+          <source>uid: in.this.article</source>
+          <target>uid: in.this.article</target>
+        </segment>
+      </unit>
+      <unit id="122">
+        <segment state="initial">
+          <source>name: In this article</source>
+          <target>name: In this article</target>
+        </segment>
+      </unit>
+      <unit id="123">
+        <segment state="initial">
+          <source>uid: min.to.read</source>
+          <target>uid: min.to.read</target>
+        </segment>
+      </unit>
+      <unit id="124">
+        <segment state="initial">
+          <source>name: min to read</source>
+          <target>name: min to read</target>
+        </segment>
+      </unit>
+      <unit id="125">
+        <segment state="initial">
+          <source>uid: product.feedback</source>
+          <target>uid: product.feedback</target>
+        </segment>
+      </unit>
+      <unit id="126">
+        <segment state="initial">
+          <source>name: To submit product feedback, please visit</source>
+          <target>name: To submit product feedback, please visit</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
