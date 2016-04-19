@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "pos": [
+        6,
+        54
+      ],
+      "content": "uid: privacy.statement\nname: Privacy Statement",
+      "leadings": [
+        "",
+        "  "
+      ],
+      "nodes": [
+        {
+          "content": "uid: privacy.statement",
+          "pos": [
+            0,
+            22
+          ]
+        },
+        {
+          "content": "name: Privacy Statement",
+          "pos": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "pos": [
+        57,
+        95
+      ],
+      "content": "uid: terms.of.use\nname: Terms of Use",
+      "leadings": [
+        "",
+        "  "
+      ],
+      "nodes": [
+        {
+          "content": "uid: terms.of.use",
+          "pos": [
+            0,
+            17
+          ]
+        },
+        {
+          "content": "name: Terms of Use",
+          "pos": [
+            18,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "pos": [
+        98,
+        135
+      ],
+      "content": "uid: impressum.text\nname: Impressum",
+      "leadings": [
+        "",
+        "  "
+      ],
+      "nodes": [
+        {
+          "content": "uid: impressum.text",
+          "pos": [
+            0,
+            19
+          ]
+        },
+        {
+          "content": "name: Impressum",
+          "pos": [
+            20,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "pos": [
+        138,
+        176
+      ],
+      "content": "uid: trademarks\nname: Trademarks\n...",
+      "leadings": [
+        "",
+        "  ",
+        ""
+      ],
+      "nodes": [
+        {
+          "content": "uid: trademarks",
+          "pos": [
+            0,
+            15
+          ]
+        },
+        {
+          "content": "name: Trademarks",
+          "pos": [
+            16,
+            32
+          ]
+        },
+        {
+          "content": "...",
+          "pos": [
+            33,
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "content": "---\n- uid: privacy.statement\n  name: Privacy Statement\n- uid: terms.of.use\n  name: Terms of Use\n- uid: impressum.text\n  name: Impressum\n- uid: trademarks\n  name: Trademarks\n...\n"
+}
