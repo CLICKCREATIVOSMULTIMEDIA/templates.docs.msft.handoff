@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="pt-br">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c97a808e431cf645a05f899e1031d2052b78306b</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-9794c66" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>uid: try.it</source>
+          <target state="new">uid: try.it</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>name: Try It!</source>
+          <target state="new">name: Try It!</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>uid: test.request</source>
+          <target state="new">uid: test.request</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>name: Test Request</source>
+          <target state="new">name: Test Request</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>uid: sample.request</source>
+          <target state="new">uid: sample.request</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>name: Sample Request</source>
+          <target state="new">name: Sample Request</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>uid: sample.response</source>
+          <target state="new">uid: sample.response</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>name: Sample Response</source>
+          <target state="new">name: Sample Response</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>uid: response.header</source>
+          <target state="new">uid: response.header</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>name: Response Header</source>
+          <target state="new">name: Response Header</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>uid: response.code</source>
+          <target state="new">uid: response.code</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>name: Response Code</source>
+          <target state="new">name: Response Code</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>uid: theme.light</source>
+          <target state="new">uid: theme.light</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>name: Light</source>
+          <target state="new">name: Light</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>uid: theme.dark</source>
+          <target state="new">uid: theme.dark</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>name: Dark</source>
+          <target state="new">name: Dark</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>uid: edit</source>
+          <target state="new">uid: edit</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>name: Edit</source>
+          <target state="new">name: Edit</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>uid: view.source</source>
+          <target state="new">uid: view.source</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>name: View.Source</source>
+          <target state="new">name: View.Source</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>uid: share</source>
+          <target state="new">uid: share</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>name: Share</source>
+          <target state="new">name: Share</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>uid: twitter</source>
+          <target state="new">uid: twitter</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>name: Twitter</source>
+          <target state="new">name: Twitter</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>uid: facebook</source>
+          <target state="new">uid: facebook</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>name: Facebook</source>
+          <target state="new">name: Facebook</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>uid: platform</source>
+          <target state="new">uid: platform</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>name: Platform</source>
+          <target state="new">name: Platform</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>uid: language</source>
+          <target state="new">uid: language</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>name: Language</source>
+          <target state="new">name: Language</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>uid: theme</source>
+          <target state="new">uid: theme</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>name: Theme</source>
+          <target state="new">name: Theme</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>uid: options</source>
+          <target state="new">uid: options</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>name: Options</source>
+          <target state="new">name: Options</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>uid: more</source>
+          <target state="new">uid: more</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>name: More</source>
+          <target state="new">name: More</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>uid: author.name</source>
+          <target state="new">uid: author.name</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>name: Author Name</source>
+          <target state="new">name: Author Name</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
