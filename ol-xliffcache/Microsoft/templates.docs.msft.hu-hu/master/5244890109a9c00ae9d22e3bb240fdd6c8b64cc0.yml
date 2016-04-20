@@ -2,9 +2,9 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
+  name: A webhely használatával beleegyezik, hogy elemzés, a keresések találati pontosságának javítása, valamint hirdetés céljából cookie-kat használjunk
 - uid: readmore
-  name: Read more
+  name: További információ
 - uid: close
-  name: close
+  name: Bezárás
 ...
