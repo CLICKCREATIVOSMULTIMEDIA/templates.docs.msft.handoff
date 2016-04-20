@@ -1,10 +1,10 @@
 ---
 - uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
-- uid: readmore
-  name: Read more
-- uid: close
-  name: close
+  naam: Microsoft
+- uid: cookie.toestemming.europa
+  naam: Door gebruik te maken van deze site, geeft u toestemming voor cookies voor analyse, relevantie en advertenties
+- uid: meerlezen
+  naam: Meer lezen
+- uid: sluiten
+  naam: sluiten
 ...

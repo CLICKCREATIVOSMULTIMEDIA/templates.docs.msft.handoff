@@ -1,40 +1,40 @@
 ---
-- uid: try.it
-  name: Try It!
-- uid: test.request
-  name: Test Request
-- uid: sample.request
-  name: Sample Request
-- uid: sample.response
-  name: Sample Response
-- uid: response.header
-  name: Response Header
-- uid: response.code
-  name: Response Code
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: edit
-  name: Edit
-- uid: view.source
-  name: View.Source
-- uid: share
-  name: Share
+- uid: probeer.het.nu
+  naam: Probeer het nu!
+- uid: test.aanvraag
+  naam: Testaanvraag
+- uid: voorbeeld.aanvraag
+  naam: Voorbeeldaanvraag
+- uid: voorbeeld.antwoord
+  naam: Voorbeeldantwoord
+- uid: antwoord.header
+  naam: Antwoordheader
+- uid: antwoord.code
+  naam: Antwoordcode
+- uid: thema.licht
+  naam: Licht
+- uid: thema.donker
+  naam: Donker
+- uid: bewerken
+  naam: Bewerken
+- uid: bron.weergeven
+  naam: Bron.weergeven
+- uid: delen
+  naam: Delen
 - uid: twitter
-  name: Twitter
+  naam: Twitter
 - uid: facebook
-  name: Facebook
+  naam: Facebook
 - uid: platform
-  name: Platform
-- uid: language
-  name: Language
-- uid: theme
-  name: Theme
-- uid: options
-  name: Options
-- uid: more
-  name: More
-- uid: author.name
-  name: Author Name
+  naam: Platform
+- uid: taal
+  naam: Taal
+- uid: thema
+  naam: Thema
+- uid: opties
+  naam: Opties
+- uid: meer
+  naam: Meer
+- uid: naam.auteur
+  naam: Naam van auteur
 ...
