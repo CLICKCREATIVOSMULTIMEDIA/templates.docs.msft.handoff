@@ -2,9 +2,9 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
+  name: このサイトの利用によって、お客様は分析、関連度、広告のための Cookie の使用に同意したものとみなされます
 - uid: readmore
-  name: Read more
+  name: 詳しくはこちら
 - uid: close
-  name: close
+  name: 閉じる
 ...

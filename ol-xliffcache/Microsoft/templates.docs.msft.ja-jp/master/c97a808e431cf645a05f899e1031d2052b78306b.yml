@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: お試しください!
 - uid: test.request
-  name: Test Request
+  name: テストのリクエスト
 - uid: sample.request
-  name: Sample Request
+  name: サンプルのリクエスト
 - uid: sample.response
-  name: Sample Response
+  name: サンプルのリソース
 - uid: response.header
-  name: Response Header
+  name: 応答ヘッダー
 - uid: response.code
-  name: Response Code
+  name: 応答コード
 - uid: theme.light
-  name: Light
+  name: 白
 - uid: theme.dark
-  name: Dark
+  name: 黒
 - uid: edit
-  name: Edit
+  name: 編集
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Share
+  name: 共有
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: Platform
+  name: プラットフォーム
 - uid: language
-  name: Language
+  name: 言語
 - uid: theme
-  name: Theme
+  name: テーマ
 - uid: options
-  name: Options
+  name: オプション
 - uid: more
-  name: More
+  name: その他
 - uid: author.name
-  name: Author Name
+  name: 作成者名
 ...
