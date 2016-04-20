@@ -1,10 +1,10 @@
 ---
-- uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
-- uid: readmore
-  name: Read more
-- uid: close
-  name: close
+- уникальный идентификатор: microsoft
+  имя: Microsoft
+- уникальный идентификатор: cookie.consent.europe
+  имя: используя этот сайт, вы соглашаетесь с тем, что мы можем использовать файлы cookie для анализа, отображения релевантной информации и рекламы
+- уникальный идентификатор: readmore
+  имя: дополнительные сведения
+- уникальный идентификатор: close
+  имя: закрыть
 ...

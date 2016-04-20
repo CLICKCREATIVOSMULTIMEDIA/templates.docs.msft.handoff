@@ -1,28 +1,28 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: comments
-  name: Comments
-- uid: edit
-  name: Edit
-- uid: share
-  name: Share
-- uid: twitter
-  name: Twitter
-- uid: facebook
-  name: Facebook
-- uid: slack
-  name: Slack
-- uid: options
-  name: Options
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: min.to.read
-  name: min to read
-- uid: product.feedback
-  name: To submit product feedback, please visit
+- уникальный идентификатор: theme.light
+  имя: светлая
+- уникальный идентификатор: theme.dark
+  имя: темная
+- уникальный идентификатор: comments
+  имя: комментарии
+- уникальный идентификатор: edit
+  имя: редактирование
+- уникальный идентификатор: share
+  имя: общий доступ
+- уникальный идентификатор: twitter
+  имя: Twitter
+- уникальный идентификатор: facebook
+  Имя: Facebook
+- уникальный идентификатор: slack
+  имя: Slack
+- уникальный идентификатор: options
+  имя: параметры
+- уникальный идентификатор: author.name
+  имя: имя автора
+- уникальный идентификатор: in.this.article
+  имя: в этой статье
+- уникальный идентификатор: min.to.read
+  name: продолжительность чтения в минутах
+- уникальный идентификатор: product.feedback
+  имя: чтобы отправить отзыв о продукте, перейдите
 ...
