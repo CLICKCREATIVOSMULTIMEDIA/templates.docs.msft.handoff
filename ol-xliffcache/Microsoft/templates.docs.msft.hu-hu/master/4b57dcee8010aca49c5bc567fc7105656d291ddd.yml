@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Light
+  name: Világos
 - uid: theme.dark
-  name: Dark
+  name: Sötét
 - uid: comments
-  name: Comments
+  name: Megjegyzések
 - uid: edit
-  name: Edit
+  name: Szerkesztés
 - uid: share
-  name: Share
+  name: Megosztás
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,13 +16,13 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Options
+  name: Beállítások
 - uid: author.name
-  name: Author Name
+  name: Szerző neve
 - uid: in.this.article
-  name: In this article
+  name: A cikk tartalma
 - uid: min.to.read
-  name: min to read
+  name: perc alatt elolvasható
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: A termékről a következő oldalon küldhet visszajelzést:
 ...
