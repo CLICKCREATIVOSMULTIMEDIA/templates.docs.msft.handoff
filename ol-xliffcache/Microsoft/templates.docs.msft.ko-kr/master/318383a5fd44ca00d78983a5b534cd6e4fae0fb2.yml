@@ -1,10 +1,10 @@
 ---
 - uid: privacy.statement
-  name: Privacy Statement
+  이름: 개인 정보 취급 방침
 - uid: terms.of.use
-  name: Terms of Use
+  이름: 사용 약관
 - uid: impressum.text
-  name: Impressum
+  이름: Impressum
 - uid: trademarks
-  name: Trademarks
+  이름: 상표
 ...
