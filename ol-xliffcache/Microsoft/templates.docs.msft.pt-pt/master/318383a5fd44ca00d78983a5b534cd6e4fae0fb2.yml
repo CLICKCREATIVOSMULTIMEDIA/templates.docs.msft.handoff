@@ -1,10 +1,10 @@
 ---
 - uid: privacy.statement
-  name: Privacy Statement
+  nome: Declaração de Privacidade
 - uid: terms.of.use
-  name: Terms of Use
+  nome: Termos de Utilização
 - uid: impressum.text
-  name: Impressum
-- uid: trademarks
-  name: Trademarks
+  nome: Ficha Técnica
+- uid: marcas.registadas
+  nome: Marcas Registadas
 ...
