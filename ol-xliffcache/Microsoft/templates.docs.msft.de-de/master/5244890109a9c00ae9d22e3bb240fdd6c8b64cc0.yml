@@ -2,9 +2,9 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
+  name: Wenn Sie diese Website nutzen, stimmen Sie der Verwendung von Cookies zu Analyse- und Werbezwecken sowie zum Optimieren der Relevanz zu
 - uid: readmore
-  name: Read more
+  name: Mehr lesen
 - uid: close
-  name: close
+  name: Schließen
 ...
