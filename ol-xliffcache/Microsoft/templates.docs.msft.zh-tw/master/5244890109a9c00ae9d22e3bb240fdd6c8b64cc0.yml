@@ -1,10 +1,10 @@
 ---
-- uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
-- uid: readmore
-  name: Read more
-- uid: close
-  name: close
+- uid：microsoft
+  名稱：Microsoft
+- uid：cookie.consent.europe
+  名稱：使用此網站表示您同意我們使用分析、相關性及廣告用途的 Cookie
+- uid：readmore
+  名稱：閱讀更多
+- uid：close
+  名稱：關閉
 ...
