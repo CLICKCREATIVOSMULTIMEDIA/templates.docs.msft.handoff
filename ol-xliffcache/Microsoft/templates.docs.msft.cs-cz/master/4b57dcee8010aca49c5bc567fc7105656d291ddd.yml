@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Light
+  name: Světlý
 - uid: theme.dark
-  name: Dark
+  name: Tmavý
 - uid: comments
-  name: Comments
+  name: Komentáře
 - uid: edit
-  name: Edit
+  name: Upravit
 - uid: share
-  name: Share
+  name: Sdílet
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,13 +16,13 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Options
+  name: Možnosti
 - uid: author.name
-  name: Author Name
+  name: Jméno autora
 - uid: in.this.article
-  name: In this article
+  name: V tomto článku
 - uid: min.to.read
-  name: min to read
+  name: min. ke čtení
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: Pokud chcete odeslat názor na produkt, navštivte
 ...
