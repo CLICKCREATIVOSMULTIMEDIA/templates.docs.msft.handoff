@@ -1,10 +1,10 @@
 ---
 - uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
-- uid: readmore
-  name: Read more
-- uid: close
-  name: close
+  namn: Microsoft
+- uid: cookie.medgivande.europa
+  namn: Genom att använda den här webbplatsen godkänner du cookies för analys, relevans och annonsering
+- uid: läsmer
+  namn: Läs mer
+- uid: stäng
+  namn: stäng
 ...
