@@ -1,10 +1,10 @@
 ---
 - uid: microsoft
   name: Microsoft
-- uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
-- uid: readmore
-  name: Read more
-- uid: close
-  name: close
+- uid: tanimlama.bilgileri.izin.avrupa
+  name: Bu siteyi kullandığınızda analiz, ilgi belirleme ve reklam amaçlarına yönelik olarak tanımlama bilgilerinin kullanılmasına izin vermiş olursunuz
+- uid: dahafazlabilgi
+  name: Daha fazla bilgi
+- uid: kapat
+  name: kapat
 ...

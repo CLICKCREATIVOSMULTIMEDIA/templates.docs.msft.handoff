@@ -1,14 +1,14 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: edit
-  name: Edit
-- uid: view.source
-  name: View.Source
-- uid: share
-  name: Share
+- uid: tema.acik
+  name: Açık
+- uid: tema.koyu
+  name: Koyu
+- uid: duzenle
+  name: Düzenle
+- uid: kaynagi.goruntule
+  name: Kaynağı Görüntüle
+- uid: paylas
+  name: Paylaş
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -17,18 +17,18 @@
   name: Slack
 - uid: platform
   name: Platform
-- uid: language
+- uid: dil
   name: Language
-- uid: theme
-  name: Theme
-- uid: options
-  name: Options
-- uid: more
-  name: More
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: product.feedback
-  name: To submit product feedback, please visit
+- uid: tema
+  name: Tema
+- uid: secenekler
+  name: Seçenekler
+- uid: diger
+  name: Diğer
+- uid: yazar.adi
+  name: Yazar Adı
+- uid: bu.makalede
+  name: Bu makalede
+- uid: urun.geri.bildirimi
+  name: Ürün hakkında geri bildirim göndermek için lütfen şu adresi ziyaret edin:
 ...

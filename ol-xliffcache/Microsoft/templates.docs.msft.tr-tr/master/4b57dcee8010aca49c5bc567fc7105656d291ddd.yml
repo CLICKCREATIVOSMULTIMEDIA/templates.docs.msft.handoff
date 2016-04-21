@@ -1,28 +1,28 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: comments
-  name: Comments
-- uid: edit
-  name: Edit
-- uid: share
-  name: Share
+- uid: tema.acik
+  name: Açık
+- uid: tema.koyu
+  name: Koyu
+- uid: yorumlar
+  name: Yorumlar
+- uid: duzenle
+  name: Düzenle
+- uid: paylas
+  name: Paylaş
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: slack
   name: Slack
-- uid: options
-  name: Options
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: min.to.read
-  name: min to read
-- uid: product.feedback
-  name: To submit product feedback, please visit
+- uid: secenekler
+  name: Seçenekler
+- uid: yazar.adi
+  name: Yazar Adı
+- uid: bu.makalede
+  name: Bu makalede
+- uid: dakika.okuma.suresi
+  name: dakika okuma süresi
+- uid: urun.geri.bildirimi
+  name: Ürün hakkında geri bildirim göndermek için lütfen şu adresi ziyaret edin:
 ...
