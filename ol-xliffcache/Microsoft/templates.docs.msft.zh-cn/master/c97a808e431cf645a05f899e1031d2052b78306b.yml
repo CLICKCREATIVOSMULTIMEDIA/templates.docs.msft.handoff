@@ -1,40 +1,40 @@
 ---
-- uid：试用
-  名称：试用！
-- uid：测试请求
-  名称：测试请求
-- uid：示例请求
-  名称：示例请求
-- uid：sample.response
-  名称：示例响应
-- uid：response.header
-  名称：响应标头
-- uid：response.code
-  名称：响应代码
-- uid：theme.light
-  名称：明
-- uid：theme.dark
-  名称：暗
-- uid：编辑
-  名称：编辑
-- uid：view.source
-  名称：View.Source
-- uid：共享
-  名称：共享
-- uid：twitter
-  名称：Twitter
-- uid：facebook
-  名称：Facebook
-- uid：平台
-  名称：平台
-- uid：语言
-  名称：语言
-- uid：主题
-  名称：主题
-- uid：选项
-  名称：选项
-- uid：更多
-  名称：更多
-- uid：author.name
-  名称：作者姓名
+- uid: try.it
+  name: Try It!
+- uid: test.request
+  name: Test Request
+- uid: sample.request
+  name: Sample Request
+- uid: sample.response
+  name: Sample Response
+- uid: response.header
+  name: Response Header
+- uid: response.code
+  name: Response Code
+- uid: theme.light
+  name: Light
+- uid: theme.dark
+  name: Dark
+- uid: edit
+  name: Edit
+- uid: view.source
+  name: View.Source
+- uid: share
+  name: Share
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: platform
+  name: Platform
+- uid: language
+  name: Language
+- uid: theme
+  name: Theme
+- uid: options
+  name: Options
+- uid: more
+  name: More
+- uid: author.name
+  name: Author Name
 ...
