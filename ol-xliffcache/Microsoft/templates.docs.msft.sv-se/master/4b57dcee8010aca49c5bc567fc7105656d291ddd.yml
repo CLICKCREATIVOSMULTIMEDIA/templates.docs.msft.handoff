@@ -1,28 +1,28 @@
 ---
-- uid: tema.ljus
-  namn: Ljus
-- uid: tema.mörk
-  namn: Mörk
-- uid: kommentarer
-  namn: Kommentarer
-- uid: redigera
-  namn: Redigera
-- uid: dela
-  namn: Dela
+- uid: theme.light
+  name: Ljus
+- uid: theme.dark
+  name: Mörk
+- uid: comments
+  name: Kommentarer
+- uid: edit
+  name: Redigera
+- uid: share
+  name: Dela
 - uid: twitter
-  namn: Twitter
+  name: Twitter
 - uid: facebook
-  namn: Facebook
+  name: Facebook
 - uid: slack
-  namn: Slack
-- uid: alternativ
-  namn: Alternativ
-- uid: författarens.namn
-  namn: Författarens namn
-- uid: i.den här.artikeln
-  namn: I den här artikeln
-- uid: min.att.läsa
-  namn: min. att läsa
-- uid: produkt.feedback
-  namn: Skicka produktfeedback genom att gå till
+  name: Slack
+- uid: options
+  name: Alternativ
+- uid: author.name
+  name: Författarens namn
+- uid: in.this.article
+  name: I den här artikeln
+- uid: min.to.read
+  name: min. att läsa
+- uid: product.feedback
+  name: Skicka produktfeedback genom att gå till
 ...

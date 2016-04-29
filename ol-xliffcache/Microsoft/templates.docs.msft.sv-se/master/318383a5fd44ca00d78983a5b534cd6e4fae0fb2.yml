@@ -1,10 +1,10 @@
 ---
-- uid: sekretess.policy
-  namn: Sekretesspolicy
-- uid: användningsvillkor
-  namn: Användningsvillkor
-- uid: ansvarig utgivare.text
-  namn: Ansvarig utgivare
-- uid: varumärken
-  namn: Varumärken
+- uid: privacy.statement
+  name: Sekretesspolicy
+- uid: terms.of.use
+  name: Användningsvillkor
+- uid: impressum.text
+  name: Ansvarig utgivare
+- uid: trademarks
+  name: Varumärken
 ...
