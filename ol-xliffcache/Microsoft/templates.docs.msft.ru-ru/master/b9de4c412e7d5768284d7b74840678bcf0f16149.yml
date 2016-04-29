@@ -1,34 +1,34 @@
 ---
-- уникальный идентификатор: theme.light
-  имя: светлая
-- уникальный идентификатор: theme.dark
-  имя: темная
-- уникальный идентификатор: edit
-  имя: редактирование
-- уникальный идентификатор: view.source
-  имя: просмотр кода
-- уникальный идентификатор: share
-  имя: общий доступ
-- уникальный идентификатор: twitter
-  имя: Twitter
-- уникальный идентификатор: facebook
-  Имя: Facebook
-- уникальный идентификатор: slack
-  имя: Slack
-- уникальный идентификатор: platform
-  имя: платформа
-- уникальный идентификатор: language
-  имя: язык
-- уникальный идентификатор: theme
-  имя: тема
-- уникальный идентификатор: options
-  имя: параметры
-- уникальный идентификатор: more
-  имя: дополнительная информация
-- уникальный идентификатор: author.name
-  имя: имя автора
-- уникальный идентификатор: in.this.article
-  имя: в этой статье
-- уникальный идентификатор: product.feedback
-  имя: чтобы отправить отзыв о продукте, перейдите
+- uid: theme.light
+  name: светлая
+- uid: theme.dark
+  name: темная
+- uid: edit
+  name: редактирование
+- uid: view.source
+  name: просмотр кода
+- uid: share
+  name: общий доступ
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: platform
+  name: платформа
+- uid: language
+  name: язык
+- uid: theme
+  name: тема
+- uid: options
+  name: параметры
+- uid: more
+  name: дополнительная информация
+- uid: author.name
+  name: имя автора
+- uid: in.this.article
+  name: в этой статье
+- uid: product.feedback
+  name: чтобы отправить отзыв о продукте, перейдите
 ...
