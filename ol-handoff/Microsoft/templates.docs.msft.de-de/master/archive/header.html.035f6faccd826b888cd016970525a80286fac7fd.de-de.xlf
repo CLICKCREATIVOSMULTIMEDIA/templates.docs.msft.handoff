@@ -4,8 +4,8 @@
     <header>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
       </xliffext:oltranslationpriority>
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5244890109a9c00ae9d22e3bb240fdd6c8b64cc0</xliffext:olfilehash>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-9794c66" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">71699f4ba970d2fd61aead0fc8dc857e1d0c05bb</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-db05220" tool-company="Microsoft" />
     </header>
     <body>
       <group id="content" extype="content">
@@ -40,6 +40,14 @@
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>name: close</source>
           <target state="new">name: close</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>uid: subheader.aboutdocs</source>
+          <target state="new">uid: subheader.aboutdocs</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>name: About docs.microsoft.com</source>
+          <target state="new">name: About docs.microsoft.com</target>
         </trans-unit>
       </group>
     </body>
