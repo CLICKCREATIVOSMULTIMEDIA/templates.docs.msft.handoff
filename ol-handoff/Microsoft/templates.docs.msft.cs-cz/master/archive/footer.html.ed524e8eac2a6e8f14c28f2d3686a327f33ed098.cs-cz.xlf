@@ -4,8 +4,8 @@
     <header>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
       </xliffext:oltranslationpriority>
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">318383a5fd44ca00d78983a5b534cd6e4fae0fb2</xliffext:olfilehash>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-9794c66" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a99c2f1034c37a35ae5a851d3f59809dc36971ed</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-db05220" tool-company="Microsoft" />
     </header>
     <body>
       <group id="content" extype="content">
@@ -40,6 +40,14 @@
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>name: Trademarks</source>
           <target state="new">name: Trademarks</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>uid: feedback</source>
+          <target state="new">uid: feedback</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>name: Feedback</source>
+          <target state="new">name: Feedback</target>
         </trans-unit>
       </group>
     </body>
