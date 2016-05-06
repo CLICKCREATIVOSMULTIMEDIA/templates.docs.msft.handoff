@@ -1,10 +1,10 @@
 ---
-- uid：privacy.statement
-  名稱：隱私權聲明
-- uid：terms.of.use
-  名稱：使用規定
-- uid：impressum.text
-  名稱：版本說明
-- uid：trademarks
-  名稱：商標
+- uid: privacy.statement
+  name: 隱私權聲明
+- uid: terms.of.use
+  name: 使用規定
+- uid: impressum.text
+  name: 版本說明
+- uid: trademarks
+  name: 商標
 ...

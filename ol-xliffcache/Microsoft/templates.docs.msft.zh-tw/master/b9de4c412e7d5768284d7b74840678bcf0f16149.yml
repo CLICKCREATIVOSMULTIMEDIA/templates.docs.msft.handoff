@@ -1,34 +1,34 @@
 ---
-- uid：theme.light
-  名稱：淺色
-- uid：theme.dark
-  名稱：深色
-- uid：edit
-  名稱：編輯
-- uid：view.source
-  名稱：View.Source
-- uid：share
-  名稱：共用
-- uid：twitter
-  名稱：Twitter
-- uid：facebook
-  名稱：Facebook
-- uid：slack
-  名稱：Slack
-- uid：platform
-  名稱：平台
-- uid：language
-  名稱：語言
-- uid：theme
-  名稱：佈景主題
-- uid：options
-  名稱：選項
-- uid：more
-  名稱：更多
-- uid：author.name
-  名稱：作者姓名
-- uid：in.this.article
-  名稱：本文內容
-- uid：product.feedback
-  名稱：若要提交意見反應，請前往
+- uid: theme.light
+  name: 淺色
+- uid: theme.dark
+  name: 深色
+- uid: edit
+  name: 編輯
+- uid: view.source
+  name: View.Source
+- uid: share
+  name: 共用
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: platform
+  name: 平台
+- uid: language
+  name: 語言
+- uid: theme
+  name: 佈景主題
+- uid: options
+  name: 選項
+- uid: more
+  name: 更多
+- uid: author.name
+  name: 作者姓名
+- uid: in.this.article
+  name: 本文內容
+- uid: product.feedback
+  name: 若要提交意見反應，請前往
 ...
