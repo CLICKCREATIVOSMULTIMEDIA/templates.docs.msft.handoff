@@ -1,28 +1,28 @@
 ---
-- uid：theme.light
-  名称：明
-- uid：theme.dark
-  名称：暗
-- uid：注释
-  名称：注释
-- uid：编辑
-  名称：编辑
-- uid：共享
-  名称：共享
-- uid：twitter
-  名称：Twitter
-- uid：facebook
-  名称：Facebook
-- uid：slack
-  名称：Slack
-- uid：选项
-  名称：选项
-- uid：author.name
-  名称：作者姓名
-- uid：in.this.article
-  名称：本文内容
-- uid：min.to.read
-  名称：最小读取
-- uid：product.feedback
-  名称：要提交产品反馈，请访问
+- uid: theme.light
+  Name：明
+- uid: theme.dark
+  Name：暗
+- uid: comments
+  Name：注释
+- uid: edit
+  Name：编辑
+- uid: share
+  Name：共享
+- uid: twitter
+  Name：Twitter
+- uid: facebook
+  Name：Facebook
+- uid: slack
+  Name：Slack
+- uid: options
+  Name：选项
+- uid: author.name
+  Name：作者姓名
+- uid: in.this.article
+  Name：本文内容
+- uid: min.to.read
+  Name：最小读取
+- uid: product.feedback
+  Name：要提交产品反馈，请访问
 ...

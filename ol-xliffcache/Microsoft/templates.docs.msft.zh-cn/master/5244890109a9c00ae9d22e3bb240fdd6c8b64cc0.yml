@@ -1,10 +1,10 @@
 ---
-- uid：microsoft
-  名称：Microsoft
-- uid：cookie.consent.europe
-  名称：通过使用此站点，同意分析、相关性和广告的 cookies
-- uid: 读取更多
-  名称：读取更多
-- uid：关闭
-  名称：关闭
+- uid: microsoft
+  Name：Microsoft
+- uid: cookie.consent.europe
+  Name：通过使用此站点，同意分析、相关性和广告的 cookies
+- uid: readmore
+  Name：读取更多
+- uid: close
+  Name：关闭
 ...

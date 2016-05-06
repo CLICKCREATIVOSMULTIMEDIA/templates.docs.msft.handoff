@@ -1,10 +1,10 @@
 ---
-- uid：privacy.statement
-  名称：隐私声明
-- uid：terms.of.use
-  名称：使用条款
-- uid：impressum.text
-  名称：版本说明
-- uid：商标
-  名称：商标
+- uid: privacy.statement
+  Name：隐私声明
+- uid: terms.of.use
+  Name：使用条款
+- uid: impressum.text
+  Name：版本说明
+- uid: trademarks
+  Name：商标
 ...
