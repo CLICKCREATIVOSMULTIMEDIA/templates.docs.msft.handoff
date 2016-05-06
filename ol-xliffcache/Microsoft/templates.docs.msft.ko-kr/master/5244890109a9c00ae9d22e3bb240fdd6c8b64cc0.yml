@@ -1,10 +1,10 @@
 ---
 - uid: microsoft
-  이름: Microsoft
+  name: Microsoft
 - uid: cookie.consent.europe
-  이름: 이 사이트를 사용하면 분석, 관련성 및 광고를 위해 쿠키에 동의하는 것으로 간주됩니다.
+  name: 이 사이트를 사용하면 분석, 관련성 및 광고를 위해 쿠키에 동의하는 것으로 간주됩니다.
 - uid: readmore
-  이름: 자세히 알아보기
+  name: 자세히 알아보기
 - uid: close
-  이름: 닫기
+  name: 닫기
 ...
