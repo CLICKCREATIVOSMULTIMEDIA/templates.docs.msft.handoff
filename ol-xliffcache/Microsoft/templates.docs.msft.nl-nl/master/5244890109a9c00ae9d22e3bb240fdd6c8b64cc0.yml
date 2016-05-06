@@ -1,10 +1,10 @@
 ---
 - uid: microsoft
-  naam: Microsoft
+  name: Microsoft
 - uid: cookie.toestemming.europa
-  naam: Door gebruik te maken van deze site, geeft u toestemming voor cookies voor analyse, relevantie en advertenties
+  name: Door gebruik te maken van deze site, geeft u toestemming voor cookies voor analyse, relevantie en advertenties
 - uid: meerlezen
-  naam: Meer lezen
+  name: Meer lezen
 - uid: sluiten
-  naam: sluiten
+  name: sluiten
 ...

@@ -1,34 +1,34 @@
 ---
 - uid: thema.licht
-  naam: Licht
+  name: Licht
 - uid: thema.donker
-  naam: Donker
+  name: Donker
 - uid: bewerken
-  naam: Bewerken
+  name: Bewerken
 - uid: bron.weergeven
-  naam: Bron.weergeven
+  name: Bron.weergeven
 - uid: delen
-  naam: Delen
+  name: Delen
 - uid: twitter
-  naam: Twitter
+  name: Twitter
 - uid: facebook
-  naam: Facebook
+  name: Facebook
 - uid: slack
-  naam: Slack
+  name: Slack
 - uid: platform
-  naam: Platform
+  name: Platform
 - uid: taal
-  naam: Taal
+  name: Taal
 - uid: thema
-  naam: Thema
+  name: Thema
 - uid: opties
-  naam: Opties
+  name: Opties
 - uid: meer
-  naam: Meer
+  name: Meer
 - uid: naam.auteur
-  naam: Naam van auteur
+  name: Naam van auteur
 - uid: in.dit.artikel
-  naam: In dit artikel
+  name: In dit artikel
 - uid: product.feedback
-  naam: Om productfeedback in te dienen, ga naar
+  name: Om productfeedback in te dienen, ga naar
 ...

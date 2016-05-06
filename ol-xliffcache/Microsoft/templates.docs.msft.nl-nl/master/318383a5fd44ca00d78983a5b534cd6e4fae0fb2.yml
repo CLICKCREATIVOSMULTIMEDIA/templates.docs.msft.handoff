@@ -1,10 +1,10 @@
 ---
 - uid: privacy.verklaring
-  naam: Privacyverklaring
+  name: Privacyverklaring
 - uid: gebruiks.recht.overeenkomst
-  naam: Gebruiksvoorwaarden
+  name: Gebruiksvoorwaarden
 - uid: impressum.tekst
-  naam: Impressum
+  name: Impressum
 - uid: handelsmerken
-  naam: Handelsmerken
+  name: Handelsmerken
 ...

@@ -1,40 +1,40 @@
 ---
 - uid: probeer.het.nu
-  naam: Probeer het nu!
+  name: Probeer het nu!
 - uid: test.aanvraag
-  naam: Testaanvraag
+  name: Testaanvraag
 - uid: voorbeeld.aanvraag
-  naam: Voorbeeldaanvraag
+  name: Voorbeeldaanvraag
 - uid: voorbeeld.antwoord
-  naam: Voorbeeldantwoord
+  name: Voorbeeldantwoord
 - uid: antwoord.header
-  naam: Antwoordheader
+  name: Antwoordheader
 - uid: antwoord.code
-  naam: Antwoordcode
+  name: Antwoordcode
 - uid: thema.licht
-  naam: Licht
+  name: Licht
 - uid: thema.donker
-  naam: Donker
+  name: Donker
 - uid: bewerken
-  naam: Bewerken
+  name: Bewerken
 - uid: bron.weergeven
-  naam: Bron.weergeven
+  name: Bron.weergeven
 - uid: delen
-  naam: Delen
+  name: Delen
 - uid: twitter
-  naam: Twitter
+  name: Twitter
 - uid: facebook
-  naam: Facebook
+  name: Facebook
 - uid: platform
-  naam: Platform
+  name: Platform
 - uid: taal
-  naam: Taal
+  name: Taal
 - uid: thema
-  naam: Thema
+  name: Thema
 - uid: opties
-  naam: Opties
+  name: Opties
 - uid: meer
-  naam: Meer
+  name: Meer
 - uid: naam.auteur
-  naam: Naam van auteur
+  name: Naam van auteur
 ...
