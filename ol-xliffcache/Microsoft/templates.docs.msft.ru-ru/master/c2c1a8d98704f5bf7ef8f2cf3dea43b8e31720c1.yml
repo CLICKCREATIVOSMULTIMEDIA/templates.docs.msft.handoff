@@ -1,16 +1,16 @@
 ---
 - uid: theme.light
-  name: Light
+  name: светлая
 - uid: theme.dark
-  name: Dark
+  name: темная
 - uid: theme
-  name: Theme
+  name: тема
 - uid: comments
-  name: Comments
+  name: комментарии
 - uid: edit
-  name: Edit
+  name: редактирование
 - uid: share
-  name: Share
+  name: общий доступ
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -18,13 +18,13 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Options
+  name: параметры
 - uid: author.name
-  name: Author Name
+  name: имя автора
 - uid: in.this.article
-  name: In this article
+  name: в этой статье
 - uid: min.to.read
-  name: min to read
+  name: продолжительность чтения в минутах
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: чтобы отправить отзыв о продукте, перейдите
 ...
