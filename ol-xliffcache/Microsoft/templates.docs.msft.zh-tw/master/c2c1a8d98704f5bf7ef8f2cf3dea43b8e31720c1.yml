@@ -1,16 +1,16 @@
 ---
 - uid: theme.light
-  name: Light
+  name: 淺色
 - uid: theme.dark
-  name: Dark
+  name: 深色
 - uid: theme
-  name: Theme
+  name: 佈景主題
 - uid: comments
-  name: Comments
+  name: 註解
 - uid: edit
-  name: Edit
+  name: 編輯
 - uid: share
-  name: Share
+  name: 共用
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -18,13 +18,13 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Options
+  name: 選項
 - uid: author.name
-  name: Author Name
+  name: 作者姓名
 - uid: in.this.article
-  name: In this article
+  name: 本文內容
 - uid: min.to.read
-  name: min to read
+  name: 閱讀的分鐘數
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: 若要提交意見反應，請前往
 ...
