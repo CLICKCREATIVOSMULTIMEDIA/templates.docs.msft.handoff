@@ -1,30 +1,30 @@
 ---
 - uid: theme.light
-  name: Light
+  Name：明
 - uid: theme.dark
-  name: Dark
+  Name：暗
 - uid: theme
-  name: Theme
+  Name：主题
 - uid: comments
-  name: Comments
+  Name：注释
 - uid: edit
-  name: Edit
+  Name：编辑
 - uid: share
-  name: Share
+  Name：共享
 - uid: twitter
-  name: Twitter
+  Name：Twitter
 - uid: facebook
-  name: Facebook
+  Name：Facebook
 - uid: slack
-  name: Slack
+  Name：Slack
 - uid: options
-  name: Options
+  Name：选项
 - uid: author.name
-  name: Author Name
+  Name：作者姓名
 - uid: in.this.article
-  name: In this article
+  Name：本文内容
 - uid: min.to.read
-  name: min to read
+  Name：最小读取
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  Name：要提交产品反馈，请访问
 ...
