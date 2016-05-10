@@ -1,16 +1,16 @@
 ---
 - uid: theme.light
-  name: Light
+  name: 밝게
 - uid: theme.dark
-  name: Dark
+  name: 어둡게
 - uid: theme
-  name: Theme
+  name: 테마
 - uid: comments
-  name: Comments
+  name: 의견
 - uid: edit
-  name: Edit
+  name: 편집
 - uid: share
-  name: Share
+  name: 공유
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -18,13 +18,13 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Options
+  name: 옵션
 - uid: author.name
-  name: Author Name
+  name: 만든 이 이름
 - uid: in.this.article
-  name: In this article
+  name: 이 문서의 내용
 - uid: min.to.read
-  name: min to read
+  name: 분 소요
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: 제품 피드백을 제출하려면 다음을 방문하세요.
 ...

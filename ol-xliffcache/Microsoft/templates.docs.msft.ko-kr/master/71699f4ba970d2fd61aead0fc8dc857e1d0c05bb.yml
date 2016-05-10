@@ -2,11 +2,11 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
+  name: 이 사이트를 사용하면 분석, 관련성 및 광고를 위해 쿠키에 동의하는 것으로 간주됩니다.
 - uid: readmore
-  name: Read more
+  name: 자세히 알아보기
 - uid: close
-  name: close
+  name: 닫기
 - uid: subheader.aboutdocs
-  name: About docs.microsoft.com
+  name: docs.microsoft.com 정보
 ...
