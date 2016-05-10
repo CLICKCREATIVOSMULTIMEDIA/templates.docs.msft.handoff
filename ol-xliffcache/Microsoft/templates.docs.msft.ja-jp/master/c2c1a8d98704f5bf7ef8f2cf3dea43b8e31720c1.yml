@@ -1,16 +1,16 @@
 ---
 - uid: theme.light
-  name: Light
+  name: 白
 - uid: theme.dark
-  name: Dark
+  name: 黒
 - uid: theme
-  name: Theme
+  name: テーマ
 - uid: comments
-  name: Comments
+  name: コメント
 - uid: edit
-  name: Edit
+  name: 編集
 - uid: share
-  name: Share
+  name: 共有
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -18,13 +18,13 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Options
+  name: オプション
 - uid: author.name
-  name: Author Name
+  name: 作成者名
 - uid: in.this.article
-  name: In this article
+  name: この記事の内容
 - uid: min.to.read
-  name: min to read
+  name: 読むのにかかる時間 (分)
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: 製品に関するフィードバックを送信するには以下をご覧ください
 ...
