@@ -1,12 +1,12 @@
 ---
 - uid: microsoft
-  name: Microsoft
+  Name：Microsoft
 - uid: cookie.consent.europe
-  name: By using this site you consent to cookies for analysis, relevance and advertising
+  Name：通过使用此站点，同意分析、相关性和广告的 cookies
 - uid: readmore
-  name: Read more
+  Name：读取更多
 - uid: close
-  name: close
+  Name：关闭
 - uid: subheader.aboutdocs
-  name: About docs.microsoft.com
+  Name：有关 docs.microsoft.com
 ...
