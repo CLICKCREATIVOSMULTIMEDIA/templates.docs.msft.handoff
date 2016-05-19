@@ -1,36 +1,18 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: theme
-  name: Theme
-- uid: comments
-  name: Comments
-- uid: edit
-  name: Edit
-- uid: editdesc
-  name: Edit This Document
-- uid: share
-  name: Share
-- uid: sharedesc
-  name: Share This Document
-- uid: twitter
-  name: Twitter
-- uid: facebook
-  name: Facebook
-- uid: slack
-  name: Slack
-- uid: options
-  name: Options
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: min.to.read
-  name: min to read
-- uid: contributors
-  name: Contributors
-- uid: product.feedback
-  name: To submit product feedback, please visit
-...
+- uid: theme.light name：明
+- uid: theme.dark name：暗
+- uid: theme name：主题
+- uid: comments name：注释
+- uid: edit name：编辑
+- uid: editdesc name：编辑此文档
+- uid: share name：共享
+- uid: editdesc name：共享此文档
+- uid: twitter name：Twitter
+- uid: facebook name：Facebook
+- uid: slack name：Slack
+- uid: options name：选项
+- uid: author.name name：作者姓名
+- uid: in.this.article name：本文内容
+- uid: min.to.read name：最小读取
+- uid: contributors name：作者
+- uid: product.feedback name：要提交产品反馈，请访问...
