@@ -1,36 +1,18 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: theme
-  name: Theme
-- uid: comments
-  name: Comments
-- uid: edit
-  name: Edit
-- uid: editdesc
-  name: Edit This Document
-- uid: share
-  name: Share
-- uid: sharedesc
-  name: Share This Document
-- uid: twitter
-  name: Twitter
-- uid: facebook
-  name: Facebook
-- uid: slack
-  name: Slack
-- uid: options
-  name: Options
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: min.to.read
-  name: min to read
-- uid: contributors
-  name: Contributors
-- uid: product.feedback
-  name: To submit product feedback, please visit
-...
+- uid: theme.light name: 淺色
+- uid: theme.dark name: 深色
+- uid: theme name: 佈景主題
+- uid: comments name: 註解
+- uid: edit name: 編輯
+- uid: editdesc name: 編輯此份文件
+- uid: share name: 共用
+- uid: sharedesc name: 共用此份文件
+- uid: twitter name: Twitter
+- uid: facebook name: Facebook
+- uid: slack name: Slack
+- uid: options name: 選項
+- uid: author.name name: 作者姓名
+- uid: in.this.article name: 本文內容
+- uid: min.to.read name: 閱讀的分鐘數
+- uid: contributors name: 參與者
+- uid: product.feedback name: 若要提交產品意見反應，請前往...
