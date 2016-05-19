@@ -1,36 +1,18 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: theme
-  name: Theme
-- uid: comments
-  name: Comments
-- uid: edit
-  name: Edit
-- uid: editdesc
-  name: Edit This Document
-- uid: share
-  name: Share
-- uid: sharedesc
-  name: Share This Document
-- uid: twitter
-  name: Twitter
-- uid: facebook
-  name: Facebook
-- uid: slack
-  name: Slack
-- uid: options
-  name: Options
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: min.to.read
-  name: min to read
-- uid: contributors
-  name: Contributors
-- uid: product.feedback
-  name: To submit product feedback, please visit
-...
+- uid: theme.light name: Licht
+- uid: theme.dark name: Donker
+- uid: theme name: Thema
+- uid: comments name: Opmerkingen
+- uid: edit name: Bewerken
+- uid: editdesc name: Dit document bewerken
+- uid: share name: Delen
+- uid: editdesc name: Dit document delen
+- uid: twitter name: Twitter
+- uid: facebook name: Facebook
+- uid: slack name: Slack
+- uid: options name: Opties
+- uid: author.name name: Naam auteur
+- uid: in.this.article name: In dit artikel
+- uid: min.to.read name: minuten leestijd
+- uid: contributors name: Medewerkers
+- uid: product.feedback name: Ga om productfeedback te geven naar ...
