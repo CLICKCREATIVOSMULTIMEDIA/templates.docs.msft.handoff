@@ -1,30 +1,30 @@
 ---
 - uid: theme.light
-  nome: Claro
+  name: Claro
 - uid: theme.dark
-  nome: Escuro
+  name: Escuro
 - uid: tema
-  nome: Tema
+  name: Tema
 - uid: comentários
-  nome: Comentários
+  name: Comentários
 - uid: editar
-  nome: Editar
+  name: Editar
 - uid: partilhar
-  nome: Partilhar
+  name: Partilhar
 - uid: twitter
-  nome: Twitter
+  name: Twitter
 - uid: facebook
-  nome: Facebook
+  name: Facebook
 - uid: slack
-  nome: Slack
+  name: Slack
 - uid: opções
-  nome: Opções
+  name: Opções
 - uid: author.name
-  nome: Nome do Autor
+  name: Nome do Autor
 - uid: in.this.article
-  nome: Neste artigo
+  name: Neste artigo
 - uid: min.to.read
-  nome: mínimo a ler
+  name: mínimo a ler
 - uid: product.feedback
-  nome: Para submeter comentários sobre produtos, aceda a
+  name: Para submeter comentários sobre produtos, aceda a
 ...
