@@ -1,36 +1,18 @@
 ---
-- uid: theme.light
-  name: Light
-- uid: theme.dark
-  name: Dark
-- uid: theme
-  name: Theme
-- uid: comments
-  name: Comments
-- uid: edit
-  name: Edit
-- uid: editdesc
-  name: Edit This Document
-- uid: share
-  name: Share
-- uid: sharedesc
-  name: Share This Document
-- uid: twitter
-  name: Twitter
-- uid: facebook
-  name: Facebook
-- uid: slack
-  name: Slack
-- uid: options
-  name: Options
-- uid: author.name
-  name: Author Name
-- uid: in.this.article
-  name: In this article
-- uid: min.to.read
-  name: min to read
-- uid: contributors
-  name: Contributors
-- uid: product.feedback
-  name: To submit product feedback, please visit
-...
+- uid: theme.light name: Hell
+- uid: theme.dark name: Dunkel
+- uid: theme name: Design
+- uid: comments name: Kommentare
+- uid: edit name: Bearbeiten
+- uid: editdesc name: Dieses Dokument bearbeiten
+- uid: share name: Freigabe
+- uid: sharedesc name: Dieses Dokument freigeben
+- uid: twitter name: Twitter
+- uid: facebook name: Facebook
+- uid: slack name: Slack
+- uid: options name: Optionen
+- uid: author.name name: Name des Autors
+- uid: in.this.article name: In diesem Artikel
+- uid: min.to.read name: Minuten Lesedauer
+- uid: contributors name: Mitwirkende
+- uid: product.feedback name: Um Feedback zu einem Produkt zu geben, besuchen Sie folgende Seite ...
