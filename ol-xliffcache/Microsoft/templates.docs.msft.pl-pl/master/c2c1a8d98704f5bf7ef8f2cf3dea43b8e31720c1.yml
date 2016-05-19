@@ -20,7 +20,7 @@
 - uid: options
   name: Opcje
 - uid: author.name
-  uid: Nazwa autora
+  name: Nazwa autora
 - uid: in.this.article
   name: W tym artykule
 - uid: min.to.read
