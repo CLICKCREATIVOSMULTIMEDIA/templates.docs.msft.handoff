@@ -15,25 +15,25 @@
   name: Claro
 - uid: theme.dark
   name: Escuro
-- uid: editar
+- uid: edit
   name: Editar
 - uid: view.source
   name: View.Source
-- uid: partilhar
+- uid: share
   name: Partilhar
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
-- uid: plataforma
+- uid: platform
   name: Plataforma
-- uid: idioma
+- uid: language
   name: Idioma
-- uid: tema
+- uid: theme
   name: Tema
-- uid: opções
+- uid: options
   name: Opções
-- uid: mais
+- uid: more
   name: Mais
 - uid: author.name
   name: Nome do Autor
