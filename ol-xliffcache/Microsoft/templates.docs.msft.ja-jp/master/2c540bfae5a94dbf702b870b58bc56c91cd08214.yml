@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name: 白
-- uid: theme.dark name: 黒
-- uid: theme name: テーマ
-- uid: comments name: コメント
-- uid: edit name: 編集
-- uid: editdesc name: このドキュメントを編集
-- uid: share name: 共有
-- uid: sharedesc name: このドキュメントを共有
-- uid: twitter name: Twitter
-- uid: facebook name: Facebook
-- uid: slack name: Slack
-- uid: options name: オプション
-- uid: author.name name: 作成者名
-- uid: in.this.article name: この記事の内容
-- uid: min.to.read name: 読むのにかかる時間 (分)
-- uid: contributors name: 共同作成者
-- uid: product.feedback name: 製品に関するフィードバックを送信するには以下をご覧ください ...
+- uid: theme.light
+  name: 白
+- uid: theme.dark
+  name: 黒
+- uid: theme
+  name: テーマ
+- uid: comments
+  name: コメント
+- uid: edit
+  name: 編集
+- uid: editdesc
+  name: このドキュメントを編集
+- uid: share
+  name: 共有
+- uid: sharedesc
+  name: このドキュメントを共有
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: オプション
+- uid: author.name
+  name: 作成者名
+- uid: in.this.article
+  name: この記事の内容
+- uid: min.to.read
+  name: 読むのにかかる時間 (分)
+- uid: contributors
+  name: 共同作成者
+- uid: product.feedback
+  name: 製品に関するフィードバックを送信するには以下をご覧ください ...
