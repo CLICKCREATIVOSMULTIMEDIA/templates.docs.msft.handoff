@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name: Licht
-- uid: theme.dark name: Donker
-- uid: theme name: Thema
-- uid: comments name: Opmerkingen
-- uid: edit name: Bewerken
-- uid: editdesc name: Dit document bewerken
-- uid: share name: Delen
-- uid: editdesc name: Dit document delen
-- uid: twitter name: Twitter
-- uid: facebook name: Facebook
-- uid: slack name: Slack
-- uid: options name: Opties
-- uid: author.name name: Naam auteur
-- uid: in.this.article name: In dit artikel
-- uid: min.to.read name: minuten leestijd
-- uid: contributors name: Medewerkers
-- uid: product.feedback name: Ga om productfeedback te geven naar ...
+- uid: theme.light
+  name: Licht
+- uid: theme.dark
+  name: Donker
+- uid: theme
+  name: Thema
+- uid: comments
+  name: Opmerkingen
+- uid: edit
+  name: Bewerken
+- uid: editdesc
+  name: Dit document bewerken
+- uid: share
+  name: Delen
+- uid: editdesc
+  name: Dit document delen
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Opties
+- uid: author.name
+  name: Naam auteur
+- uid: in.this.article
+  name: In dit artikel
+- uid: min.to.read
+  name: minuten leestijd
+- uid: contributors
+  name: Medewerkers
+- uid: product.feedback
+  name: Ga om productfeedback te geven naar ...
