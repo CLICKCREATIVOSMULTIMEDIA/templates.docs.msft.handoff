@@ -1,25 +1,25 @@
 ---
-- uid: probeer.het.nu
+- uid: try.it
   name: Probeer het nu!
-- uid: test.aanvraag
+- uid: test.request
   name: Testaanvraag
-- uid: voorbeeld.aanvraag
+- uid: sample.request
   name: Voorbeeldaanvraag
-- uid: voorbeeld.antwoord
+- uid: sample.response
   name: Voorbeeldantwoord
-- uid: antwoord.header
+- uid: response.header
   name: Antwoordheader
-- uid: antwoord.code
+- uid: response.code
   name: Antwoordcode
-- uid: thema.licht
+- uid: theme.light
   name: Licht
-- uid: thema.donker
+- uid: theme.dark
   name: Donker
-- uid: bewerken
+- uid: edit
   name: Bewerken
-- uid: bron.weergeven
+- uid: view.source
   name: Bron.weergeven
-- uid: delen
+- uid: share
   name: Delen
 - uid: twitter
   name: Twitter
@@ -27,14 +27,14 @@
   name: Facebook
 - uid: platform
   name: Platform
-- uid: taal
+- uid: language
   name: Taal
-- uid: thema
+- uid: theme
   name: Thema
-- uid: opties
+- uid: options
   name: Opties
-- uid: meer
+- uid: more
   name: Meer
-- uid: naam.auteur
+- uid: author.name
   name: Naam van auteur
 ...

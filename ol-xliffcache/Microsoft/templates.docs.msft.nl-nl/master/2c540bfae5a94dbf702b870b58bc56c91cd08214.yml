@@ -13,7 +13,7 @@
   name: Dit document bewerken
 - uid: share
   name: Delen
-- uid: editdesc
+- uid: sharedesc
   name: Dit document delen
 - uid: twitter
   name: Twitter
@@ -32,4 +32,5 @@
 - uid: contributors
   name: Medewerkers
 - uid: product.feedback
-  name: Ga om productfeedback te geven naar ...
+  name: Ga om productfeedback te geven naar
+...
