@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name: Világos
-- uid: theme.dark name: Sötét
-- uid: theme name: Téma
-- uid: comments name: Megjegyzések
-- uid: edit name: Szerkesztés
-- uid: editdesc name: A dokumentum szerkesztése
-- uid: share name: Megosztás
-- uid: sharedesc name: A dokumentum megosztása
-- uid: twitter name: Twitter
-- uid: facebook name: Facebook
-- uid: slack name: Slack
-- uid: options name: Beállítások
-- uid: author.name name: Szerző neve
-- uid: in.this.article name: A cikk tartalma
-- uid: min.to.read name: perc alatt elolvasható
-- uid: contributors name: Közreműködők
-- uid: product.feedback name: A termékről a következő oldalon küldhet visszajelzést:
+- uid: theme.light
+  name: Világos
+- uid: theme.dark
+  name: Sötét
+- uid: theme
+  name: Téma
+- uid: comments
+  name: Megjegyzések
+- uid: edit
+  name: Szerkesztés
+- uid: editdesc
+  name: A dokumentum szerkesztése
+- uid: share
+  name: Megosztás
+- uid: sharedesc
+  name: A dokumentum megosztása
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Beállítások
+- uid: author.name
+  name: Szerző neve
+- uid: in.this.article
+  name: A cikk tartalma
+- uid: min.to.read
+  name: perc alatt elolvasható
+- uid: contributors
+  name: Közreműködők
+- uid: product.feedback
+  name: A termékről a következő oldalon küldhet visszajelzést:
