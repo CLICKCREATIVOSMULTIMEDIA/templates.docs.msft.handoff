@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name：明
-- uid: theme.dark name：暗
-- uid: theme name：主题
-- uid: comments name：注释
-- uid: edit name：编辑
-- uid: editdesc name：编辑此文档
-- uid: share name：共享
-- uid: editdesc name：共享此文档
-- uid: twitter name：Twitter
-- uid: facebook name：Facebook
-- uid: slack name：Slack
-- uid: options name：选项
-- uid: author.name name：作者姓名
-- uid: in.this.article name：本文内容
-- uid: min.to.read name：最小读取
-- uid: contributors name：作者
-- uid: product.feedback name：要提交产品反馈，请访问...
+- uid: theme.light
+  name: 明
+- uid: theme.dark
+  name: 暗
+- uid: theme
+  name: 主题
+- uid: comments
+  name: 注释
+- uid: edit
+  name: 编辑
+- uid: editdesc
+  name: 编辑此文档
+- uid: share
+  name: 共享
+- uid: editdesc
+  name: 共享此文档
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: 选项
+- uid: author.name
+  name: 作者姓名
+- uid: in.this.article
+  name: 本文内容
+- uid: min.to.read
+  name: 最小读取
+- uid: contributors
+  name: 作者
+- uid: product.feedback
+  name: 要提交产品反馈，请访问...
