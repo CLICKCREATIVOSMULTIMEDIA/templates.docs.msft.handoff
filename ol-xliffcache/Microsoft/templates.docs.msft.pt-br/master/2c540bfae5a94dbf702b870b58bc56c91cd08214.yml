@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name: Claro
-- uid: theme.dark name: Escuro
-- uid: theme name: Tema
-- uid: comments name: Comentários
-- uid: edit name: Editar
-- uid: editdesc name: Editar Este Documento
-- uid: share name: Compartilhar
-- uid: sharedesc name: Compartilhar Este Documento
-- uid: twitter name: Twitter
-- uid: facebook name: Facebook
-- uid: slack name: Slack
-- uid: options name: Opções
-- uid: author.name name: Nome do Autor
-- uid: in.this.article name: Neste artigo
-- uid: min.to.read name: mínimo a ler
-- uid: contributors name: Colaboradores
-- uid: product.feedback name: Para submeter comentários sobre o produto, visite...
+- uid: theme.light
+  name: Claro
+- uid: theme.dark
+  name: Escuro
+- uid: theme
+  name: Tema
+- uid: comments
+  name: Comentários
+- uid: edit
+  name: Editar
+- uid: editdesc
+  name: Editar Este Documento
+- uid: share
+  name: Compartilhar
+- uid: sharedesc
+  name: Compartilhar Este Documento
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Opções
+- uid: author.name
+  name: Nome do Autor
+- uid: in.this.article
+  name: Neste artigo
+- uid: min.to.read
+  name: mínimo a ler
+- uid: contributors
+  name: Colaboradores
+- uid: product.feedback
+  name: Para submeter comentários sobre o produto, visite...
