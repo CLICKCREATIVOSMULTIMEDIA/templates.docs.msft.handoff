@@ -1,25 +1,25 @@
 ---
-- uid: deneyin
+- uid: try.it
   name: Deneyin!
-- uid: test.istegi
+- uid: test.request
   name: Test İsteği
-- uid: ornek.istek
+- uid: sample.request
   name: Örnek İstek
-- uid: ornek.yanit
+- uid: sample.response
   name: Örnek Yanıt
-- uid: yanit.ust.bilgisi
+- uid: response.header
   name: Yanıt Üst Bilgisi
-- uid: yanit.kodu
+- uid: response.code
   name: Yanıt Kodu
-- uid: tema.acik
+- uid: theme.light
   name: Açık
-- uid: tema.koyu
+- uid: theme.dark
   name: Koyu
-- uid: duzenle
+- uid: edit
   name: Düzenle
-- uid: kaynagi.goruntule
+- uid: view.source
   name: Kaynağı Görüntüle
-- uid: paylas
+- uid: share
   name: Paylaş
 - uid: twitter
   name: Twitter
@@ -27,14 +27,14 @@
   name: Facebook
 - uid: platform
   name: Platform
-- uid: dil
+- uid: language
   name: Language
-- uid: tema
+- uid: theme
   name: Tema
-- uid: secenekler
+- uid: options
   name: Seçenekler
-- uid: diger
+- uid: more
   name: Diğer
-- uid: yazar.adi
+- uid: author.name
   name: Yazar Adı
 ...
