@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name: Светлая
-- uid: theme.dark name: Темная
-- uid: theme name: Тема
-- uid: comments name: Комментарии
-- uid: edit name: Редактировать
-- uid: editdesc name: Редактировать этот документ
-- uid: share name: Общий доступ
-- uid: sharedesc name: Предоставить общий доступ к этому документу
-- uid: twitter name: Twitter
-- uid: facebook name: Facebook
-- uid: slack name: Slack
-- uid: options name: Параметры
-- uid: author.name name: Имя автора
-- uid: in.this.article name: В этой статье
-- uid: min.to.read name: продолжительность чтения в минутах
-- uid: contributors name: Соавторы
-- uid: product.feedback name: Чтобы отправить отзыв о продукте, перейдите...
+- uid: theme.light
+  name: Светлая
+- uid: theme.dark
+  name: Темная
+- uid: theme
+  name: Тема
+- uid: comments
+  name: Комментарии
+- uid: edit
+  name: Редактировать
+- uid: editdesc
+  name: Редактировать этот документ
+- uid: share
+  name: Общий доступ
+- uid: sharedesc
+  name: Предоставить общий доступ к этому документу
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Параметры
+- uid: author.name
+  name: Имя автора
+- uid: in.this.article
+  name: В этой статье
+- uid: min.to.read
+  name: продолжительность чтения в минутах
+- uid: contributors
+  name: Соавторы
+- uid: product.feedback
+  name: Чтобы отправить отзыв о продукте, перейдите...
