@@ -1,11 +1,11 @@
 ---
-- uid: gizlilik.bildirimi
+- uid: privacy.statement
   name: Gizlilik Bildirimi
-- uid: kullanim.kosullari
+- uid: terms.of.use
   name: Kullanım Koşulları
-- uid: kunye.metni
+- uid: impressum.text
   name: Künye
-- uid: ticari.markalar
+- uid: trademarks
   name: Ticari Markalar
 - uid: feedback
   name: Geri Bildirim
