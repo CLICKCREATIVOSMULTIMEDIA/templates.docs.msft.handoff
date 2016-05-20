@@ -1,18 +1,35 @@
 ---
-- uid: theme.light name: Ljus
-- uid: theme.dark name: Mörk
-- uid: theme name: Tema
-- uid: comments name: Kommentarer
-- uid: edit name: Redigera
-- uid: editdesc name: Redigera det här dokumentet
-- uid: share name: Dela
-- uid: sharedesc name: Dela det här dokumentet
-- uid: twitter name: Twitter
-- uid: facebook name: Facebook
-- uid: slack name: Slack
-- uid: options name: Alternativ
-- uid: author.name name: Författarens namn
-- uid: in.this.article name: I den här artikeln
-- uid: min.to.read name: min. att läsa
-- uid: contributors name: Deltagare
-- uid: product.feedback name: Skicka produktfeedback genom att gå till ...
+- uid: theme.light
+  name: Ljus
+- uid: theme.dark
+  name: Mörk
+- uid: theme
+  name: Tema
+- uid: comments
+  name: Kommentarer
+- uid: edit
+  name: Redigera
+- uid: editdesc
+  name: Redigera det här dokumentet
+- uid: share
+  name: Dela
+- uid: sharedesc
+  name: Dela det här dokumentet
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Alternativ
+- uid: author.name
+  name: Författarens namn
+- uid: in.this.article
+  name: I den här artikeln
+- uid: min.to.read
+  name: min. att läsa
+- uid: contributors
+  name: Deltagare
+- uid: product.feedback
+  name: Skicka produktfeedback genom att gå till ...
