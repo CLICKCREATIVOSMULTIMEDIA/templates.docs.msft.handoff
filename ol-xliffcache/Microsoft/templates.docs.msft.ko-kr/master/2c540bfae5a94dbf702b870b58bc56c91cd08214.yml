@@ -1,35 +1,18 @@
 ---
-- uid: theme.light
-  name: 밝음
-- uid: theme.dark
-  name: 어두움
-- uid: theme
-  name: 테마
-- uid: comments
-  name: 의견
-- uid: edit
-  name: 편집
-- uid: editdesc
-  name: 이 문서 편집
-- uid: share
-  name: 공유
-- uid: sharedesc
-  name: 이 문서 공유
-- uid: twitter
-  name: Twitter
-- uid: facebook
-  name: Facebook
-- uid: slack
-  name: Slack
-- uid: options
-  name: 옵션
-- uid: author.name
-  name: 작성자 이름
-- uid: in.this.article
-  name: 이 문서에서
-- uid: min.to.read
-  name: 읽는 데 소요되는 시간(분)
-- uid: contributors
-  name: 참가자
-- uid: product.feedback
-  name: 제품에 대한 의견을 제출하려면...
+- uid: theme.light name: 밝음
+- uid: theme.dark name: 어두움
+- uid: theme name: 테마
+- uid: comments name: 의견
+- uid: edit name: 편집
+- uid: editdesc name: 이 문서 편집
+- uid: share name: 공유
+- uid: sharedesc name: 이 문서 공유
+- uid: twitter name: Twitter
+- uid: facebook name: Facebook
+- uid: slack name: Slack
+- uid: options name: 옵션
+- uid: author.name name: 작성자 이름
+- uid: in.this.article name: 이 문서에서
+- uid: min.to.read name: 읽는 데 소요되는 시간(분)
+- uid: contributors name: 참가자
+- uid: product.feedback name: 제품에 대한 의견을 제출하려면...
