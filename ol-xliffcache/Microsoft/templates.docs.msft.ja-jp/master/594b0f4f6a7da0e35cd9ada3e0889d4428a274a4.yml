@@ -1,11 +1,6 @@
 ---
-- uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: このサイトの利用によって、お客様は分析、パーソナライズされたコンテンツ、広告のための Cookie の使用に同意したものとみなされます。
-- uid: learnmore
-  name: 詳細情報
-- uid: close
-  name: 閉じる
-- uid: subheader.aboutdocs
-  name: docs.microsoft.com について...
+- uid: microsoft name: Microsoft
+- uid: cookie.consent.europe name: このサイトの利用によって、お客様は分析、パーソナライズされたコンテンツ、広告のための Cookie の使用に同意したものとみなされます。
+- uid: learnmore name: 詳細情報
+- uid: close name: 閉じる
+- uid: subheader.aboutdocs name: docs.microsoft.com について...
