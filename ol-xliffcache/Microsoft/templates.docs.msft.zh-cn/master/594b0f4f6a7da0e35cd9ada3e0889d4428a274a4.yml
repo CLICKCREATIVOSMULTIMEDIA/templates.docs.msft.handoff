@@ -1,11 +1,6 @@
 ---
-- uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: 使用此站点，表示你同意将 Cookie 用于分析、个性化内容和广告。
-- uid: learnmore
-  name: 了解更多
-- uid: close
-  name: 关闭
-- uid: subheader.aboutdocs
-  name: 有关 docs.microsoft.com ...
+- uid: microsoft name：Microsoft
+- uid: cookie.consent.europe name：使用此站点，表示你同意将 Cookie 用于分析、个性化内容和广告。
+- uid: learnmore name：了解更多
+- uid: close name：关闭
+- uid: subheader.aboutdocs name：有关 docs.microsoft.com ...
