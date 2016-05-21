@@ -1,11 +1,6 @@
 ---
-- uid: microsoft
-  name: Microsoft
-- uid: cookie.consent.europe
-  name: A webhely használatával beleegyezik, hogy az elemzésekhez, a személyre szabott tartalmakhoz, valamint a hirdetésekhez cookie-kat használjunk.
-- uid: learnmore
-  name: Részletek
-- uid: close
-  name: bezárás
-- uid: subheader.aboutdocs
-  name: Tudnivalók – docs.microsoft.com ...
+- uid: microsoft name: Microsoft
+- uid: cookie.consent.europe name: A webhely használatával beleegyezik, hogy az elemzésekhez, a személyre szabott tartalmakhoz, valamint a hirdetésekhez cookie-kat használjunk.
+- uid: learnmore name: Részletek
+- uid: close name: bezárás
+- uid: subheader.aboutdocs name: Tudnivalók – docs.microsoft.com ...
