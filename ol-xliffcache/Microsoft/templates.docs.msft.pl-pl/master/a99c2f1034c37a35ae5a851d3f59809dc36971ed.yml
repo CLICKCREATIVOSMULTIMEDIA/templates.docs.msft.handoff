@@ -8,5 +8,5 @@
 - uid: trademarks
   name: Znaki towarowe
 - uid: feedback
-  name: Opinia
+  uid: Opinia
 ...
