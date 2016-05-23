@@ -13,7 +13,7 @@
   name: 编辑此文档
 - uid: share
   name: 共享
-- uid: editdesc
+- uid: sharedesc
   name: 共享此文档
 - uid: twitter
   name: Twitter
