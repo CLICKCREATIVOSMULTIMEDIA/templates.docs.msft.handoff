@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: попробуйте!
+  name: Try It!
 - uid: test.request
-  name: тестовый запрос
+  name: Test Request
 - uid: sample.request
-  name: пример запроса
+  name: Sample Request
 - uid: sample.response
-  name: пример ответа
+  name: Sample Response
 - uid: response.header
-  name: заголовок ответа
+  name: Response Header
 - uid: response.code
-  name: код ответа
+  name: Response Code
 - uid: theme.light
-  name: светлая
+  name: Light
 - uid: theme.dark
-  name: темная
+  name: Dark
 - uid: edit
-  name: редактирование
+  name: Edit
 - uid: view.source
-  name: просмотр кода
+  name: View.Source
 - uid: share
-  name: общий доступ
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: платформа
+  name: Platform
 - uid: language
-  name: язык
+  name: Language
 - uid: theme
-  name: тема
+  name: Theme
 - uid: options
-  name: параметры
+  name: Options
 - uid: more
-  name: дополнительная информация
+  name: More
 - uid: author.name
-  name: имя автора
+  name: Author Name
 ...

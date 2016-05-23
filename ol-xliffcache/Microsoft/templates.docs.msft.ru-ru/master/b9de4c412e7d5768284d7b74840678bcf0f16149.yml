@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: светлая
+  name: Light
 - uid: theme.dark
-  name: темная
+  name: Dark
 - uid: edit
-  name: редактирование
+  name: Edit
 - uid: view.source
-  name: просмотр кода
+  name: View.Source
 - uid: share
-  name: общий доступ
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,19 +16,19 @@
 - uid: slack
   name: Slack
 - uid: platform
-  name: платформа
+  name: Platform
 - uid: language
-  name: язык
+  name: Language
 - uid: theme
-  name: тема
+  name: Theme
 - uid: options
-  name: параметры
+  name: Options
 - uid: more
-  name: дополнительная информация
+  name: More
 - uid: author.name
-  name: имя автора
+  name: Author Name
 - uid: in.this.article
-  name: в этой статье
+  name: In this article
 - uid: product.feedback
-  name: чтобы отправить отзыв о продукте, перейдите
+  name: To submit product feedback, please visit
 ...
