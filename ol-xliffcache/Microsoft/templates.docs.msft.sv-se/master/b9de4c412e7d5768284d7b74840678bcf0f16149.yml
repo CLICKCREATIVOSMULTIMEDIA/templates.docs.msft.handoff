@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Ljus
+  name: Light
 - uid: theme.dark
-  name: Mörk
+  name: Dark
 - uid: edit
-  name: Redigera
+  name: Edit
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Dela
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,19 +16,19 @@
 - uid: slack
   name: Slack
 - uid: platform
-  name: Plattform
+  name: Platform
 - uid: language
-  name: Språk
+  name: Language
 - uid: theme
-  name: Tema
+  name: Theme
 - uid: options
-  name: Alternativ
+  name: Options
 - uid: more
-  name: Mer
+  name: More
 - uid: author.name
-  name: Författarens namn
+  name: Author Name
 - uid: in.this.article
-  name: I den här artikeln
+  name: In this article
 - uid: product.feedback
-  name: Skicka produktfeedback genom att gå till
+  name: To submit product feedback, please visit
 ...
