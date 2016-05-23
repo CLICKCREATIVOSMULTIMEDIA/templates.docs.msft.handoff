@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Világos
+  name: Light
 - uid: theme.dark
-  name: Sötét
+  name: Dark
 - uid: edit
-  name: Szerkesztés
+  name: Edit
 - uid: view.source
-  name: Forrás megtekintése
+  name: View.Source
 - uid: share
-  name: Megosztás
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -18,17 +18,17 @@
 - uid: platform
   name: Platform
 - uid: language
-  name: Nyelv
+  name: Language
 - uid: theme
-  name: Téma
+  name: Theme
 - uid: options
-  name: Beállítások
+  name: Options
 - uid: more
-  name: Egyebek
+  name: More
 - uid: author.name
-  name: Szerző neve
+  name: Author Name
 - uid: in.this.article
-  name: A cikk tartalma
+  name: In this article
 - uid: product.feedback
-  name: A termékről a következő oldalon küldhet visszajelzést
+  name: To submit product feedback, please visit
 ...

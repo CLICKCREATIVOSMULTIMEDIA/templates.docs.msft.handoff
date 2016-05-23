@@ -1,26 +1,26 @@
 ---
 - uid: try.it
-  name: Próbálja ki!
+  name: Try It!
 - uid: test.request
-  name: Tesztelési kérelem
+  name: Test Request
 - uid: sample.request
-  name: Mintakérelem
+  name: Sample Request
 - uid: sample.response
-  name: Mintaválasz
+  name: Sample Response
 - uid: response.header
-  name: Válaszfejléc
+  name: Response Header
 - uid: response.code
-  name: Válaszkód
+  name: Response Code
 - uid: theme.light
-  name: Világos
+  name: Light
 - uid: theme.dark
-  name: Sötét
+  name: Dark
 - uid: edit
-  name: Szerkesztés
+  name: Edit
 - uid: view.source
-  name: Forrás megtekintése
+  name: View.Source
 - uid: share
-  name: Megosztás
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -28,13 +28,13 @@
 - uid: platform
   name: Platform
 - uid: language
-  name: Nyelv
+  name: Language
 - uid: theme
-  name: Téma
+  name: Theme
 - uid: options
-  name: Beállítások
+  name: Options
 - uid: more
-  name: Egyebek
+  name: More
 - uid: author.name
-  name: Szerző neve
+  name: Author Name
 ...
