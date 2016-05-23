@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Licht
+  name: Light
 - uid: theme.dark
-  name: Donker
+  name: Dark
 - uid: edit
-  name: Bewerken
+  name: Edit
 - uid: view.source
-  name: Bron.weergeven
+  name: View.Source
 - uid: share
-  name: Delen
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -18,17 +18,17 @@
 - uid: platform
   name: Platform
 - uid: language
-  name: Taal
+  name: Language
 - uid: theme
-  name: Thema
+  name: Theme
 - uid: options
-  name: Opties
+  name: Options
 - uid: more
-  name: Meer
+  name: More
 - uid: author.name
-  name: Naam van auteur
+  name: Author Name
 - uid: in.this.article
-  name: In dit artikel
+  name: In this article
 - uid: product.feedback
-  name: Om productfeedback in te dienen, ga naar
+  name: To submit product feedback, please visit
 ...
