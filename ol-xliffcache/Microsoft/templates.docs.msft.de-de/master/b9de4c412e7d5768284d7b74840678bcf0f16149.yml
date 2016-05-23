@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Hell
+  name: Light
 - uid: theme.dark
-  name: Dunkel
+  name: Dark
 - uid: edit
-  name: Bearbeiten
+  name: Edit
 - uid: view.source
-  name: Quelle anzeigen
+  name: View.Source
 - uid: share
-  name: Teilen
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,19 +16,19 @@
 - uid: slack
   name: Slack
 - uid: platform
-  name: Plattform
+  name: Platform
 - uid: language
-  name: Sprache
+  name: Language
 - uid: theme
-  name: Design
+  name: Theme
 - uid: options
-  name: Optionen
+  name: Options
 - uid: more
-  name: Mehr
+  name: More
 - uid: author.name
-  name: Name des Autors
+  name: Author Name
 - uid: in.this.article
-  name: In diesem Artikel
+  name: In this article
 - uid: product.feedback
-  name: Um Feedback zu einem Produkt zu geben, besuchen Sie folgende Seite
+  name: To submit product feedback, please visit
 ...
