@@ -2,11 +2,11 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: Bu siteyi kullandığınızda analiz, kişiselleştirilmiş içerik ve reklam sunumu amaçlarına yönelik olarak tanımlama bilgilerinin kullanılmasını kabul etmiş olursunuz.
+  name: By using this site you agree to the use of cookies for analytics, personalized content and ads.
 - uid: learnmore
-  name: Daha fazla bilgi
+  name: Learn more
 - uid: close
-  name: kapat
+  name: close
 - uid: subheader.aboutdocs
-  name: docs.microsoft.com hakkında
+  name: About docs.microsoft.com
 ...

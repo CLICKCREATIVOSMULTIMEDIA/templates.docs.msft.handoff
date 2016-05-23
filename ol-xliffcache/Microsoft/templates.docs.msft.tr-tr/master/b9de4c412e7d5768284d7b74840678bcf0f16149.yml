@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Açık
+  name: Light
 - uid: theme.dark
-  name: Koyu
+  name: Dark
 - uid: edit
-  name: Düzenle
+  name: Edit
 - uid: view.source
-  name: Kaynağı Görüntüle
+  name: View.Source
 - uid: share
-  name: Paylaş
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -20,15 +20,15 @@
 - uid: language
   name: Language
 - uid: theme
-  name: Tema
+  name: Theme
 - uid: options
-  name: Seçenekler
+  name: Options
 - uid: more
-  name: Diğer
+  name: More
 - uid: author.name
-  name: Yazar Adı
+  name: Author Name
 - uid: in.this.article
-  name: Bu makalede
+  name: In this article
 - uid: product.feedback
-  name: Ürün hakkında geri bildirim göndermek için lütfen şu adresi ziyaret edin
+  name: To submit product feedback, please visit
 ...
