@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: 试用！
+  name: Try It!
 - uid: test.request
-  name: 测试请求
+  name: Test Request
 - uid: sample.request
-  name: 示例请求
+  name: Sample Request
 - uid: sample.response
-  name: 示例响应
+  name: Sample Response
 - uid: response.header
-  name: 响应标头
+  name: Response Header
 - uid: response.code
-  name: 响应代码
+  name: Response Code
 - uid: theme.light
-  name: 明
+  name: Light
 - uid: theme.dark
-  name: 暗
+  name: Dark
 - uid: edit
-  name: 编辑
+  name: Edit
 - uid: view.source
   name: View.Source
 - uid: share
-  name: 共享
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: 平台
+  name: Platform
 - uid: language
-  name: 语言
+  name: Language
 - uid: theme
-  name: 主题
+  name: Theme
 - uid: options
-  name: 选项
+  name: Options
 - uid: more
-  name: 更多
+  name: More
 - uid: author.name
-  name: 作者姓名
+  name: Author Name
 ...

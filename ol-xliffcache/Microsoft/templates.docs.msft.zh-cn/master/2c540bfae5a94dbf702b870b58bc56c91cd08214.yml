@@ -1,20 +1,20 @@
 ---
 - uid: theme.light
-  name: 明
+  name: Light
 - uid: theme.dark
-  name: 暗
+  name: Dark
 - uid: theme
-  name: 主题
+  name: Theme
 - uid: comments
-  name: 注释
+  name: Comments
 - uid: edit
-  name: 编辑
+  name: Edit
 - uid: editdesc
-  name: 编辑此文档
+  name: Edit This Document
 - uid: share
-  name: 共享
+  name: Share
 - uid: sharedesc
-  name: 共享此文档
+  name: Share This Document
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -22,15 +22,15 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: 选项
+  name: Options
 - uid: author.name
-  name: 作者姓名
+  name: Author Name
 - uid: in.this.article
-  name: 本文内容
+  name: In this article
 - uid: min.to.read
-  name: 最小读取
+  name: min to read
 - uid: contributors
-  name: 作者
+  name: Contributors
 - uid: product.feedback
-  name: 要提交产品反馈，请访问
+  name: To submit product feedback, please visit
 ...
