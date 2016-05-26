@@ -2,11 +2,11 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: By using this site you agree to the use of cookies for analytics, personalized content and ads.
+  name: En utilisant ce site, vous acceptez l’utilisation de cookies à des fins d’analyse, d’affichage de contenu personnalisé et de publicités.
 - uid: learnmore
-  name: Learn more
+  name: En savoir plus
 - uid: close
-  name: close
+  name: fermer
 - uid: subheader.aboutdocs
-  name: About docs.microsoft.com
+  name: À propos de docs.microsoft.com
 ...
