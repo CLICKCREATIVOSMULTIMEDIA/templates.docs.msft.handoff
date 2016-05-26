@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: 試試看！
 - uid: test.request
-  name: Test Request
+  name: 測試要求
 - uid: sample.request
-  name: Sample Request
+  name: 範例要求
 - uid: sample.response
-  name: Sample Response
+  name: 範例回應
 - uid: response.header
-  name: Response Header
+  name: 回應標頭
 - uid: response.code
-  name: Response Code
+  name: 回應碼
 - uid: theme.light
-  name: Light
+  name: 淺色
 - uid: theme.dark
-  name: Dark
+  name: 深色
 - uid: edit
-  name: Edit
+  name: 編輯
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Share
+  name: 共用
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: Platform
+  name: 平台
 - uid: language
-  name: Language
+  name: 語言
 - uid: theme
-  name: Theme
+  name: 佈景主題
 - uid: options
-  name: Options
+  name: 選項
 - uid: more
-  name: More
+  name: 其他
 - uid: author.name
-  name: Author Name
+  name: 作者姓名
 ...
