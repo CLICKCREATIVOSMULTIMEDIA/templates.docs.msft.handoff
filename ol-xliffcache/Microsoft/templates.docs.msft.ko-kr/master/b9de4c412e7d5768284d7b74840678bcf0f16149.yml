@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Light
+  name: 밝음
 - uid: theme.dark
-  name: Dark
+  name: 어두움
 - uid: edit
-  name: Edit
+  name: 편집
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Share
+  name: 공유
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,19 +16,19 @@
 - uid: slack
   name: Slack
 - uid: platform
-  name: Platform
+  name: 플랫폼
 - uid: language
-  name: Language
+  name: 언어
 - uid: theme
-  name: Theme
+  name: 테마
 - uid: options
-  name: Options
+  name: 옵션
 - uid: more
-  name: More
+  name: 자세히
 - uid: author.name
-  name: Author Name
+  name: 작성자 이름
 - uid: in.this.article
-  name: In this article
+  name: 이 문서의 내용
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: 제품 피드백을 제출하려면 다음을 방문하세요.
 ...
