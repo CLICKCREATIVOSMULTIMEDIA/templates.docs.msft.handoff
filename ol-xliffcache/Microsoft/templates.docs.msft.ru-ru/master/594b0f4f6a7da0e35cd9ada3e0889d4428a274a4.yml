@@ -1,12 +1,12 @@
 ---
 - uid: microsoft
-  name: Microsoft
+  name: Майкрософт
 - uid: cookie.consent.europe
-  name: By using this site you agree to the use of cookies for analytics, personalized content and ads.
+  name: Посещая этот сайт, вы соглашаетесь на использование файлов cookie для анализа, персонализации содержимого и рекламы.
 - uid: learnmore
-  name: Learn more
+  name: Подробнее
 - uid: close
-  name: close
+  name: Закрыть
 - uid: subheader.aboutdocs
-  name: About docs.microsoft.com
+  name: О сайте docs.microsoft.com
 ...
