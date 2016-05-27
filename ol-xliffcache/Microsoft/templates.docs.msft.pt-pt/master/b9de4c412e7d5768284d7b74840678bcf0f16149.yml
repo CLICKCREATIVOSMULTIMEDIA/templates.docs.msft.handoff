@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: Light
+  name: Claro
 - uid: theme.dark
-  name: Dark
+  name: Escuro
 - uid: edit
-  name: Edit
+  name: Editar
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Share
+  name: Partilhar
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,19 +16,19 @@
 - uid: slack
   name: Slack
 - uid: platform
-  name: Platform
+  name: Plataforma
 - uid: language
-  name: Language
+  name: Linguagem
 - uid: theme
-  name: Theme
+  name: Tema
 - uid: options
-  name: Options
+  name: Opções
 - uid: more
-  name: More
+  name: Mais
 - uid: author.name
-  name: Author Name
+  name: Nome do Autor
 - uid: in.this.article
-  name: In this article
+  name: Neste artigo
 - uid: product.feedback
-  name: To submit product feedback, please visit
+  name: Para submeter comentários sobre produtos, aceda a
 ...

@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: Experimente!
 - uid: test.request
-  name: Test Request
+  name: Pedido de Teste
 - uid: sample.request
-  name: Sample Request
+  name: Pedido de Amostra
 - uid: sample.response
-  name: Sample Response
+  name: Resposta de Amostra
 - uid: response.header
-  name: Response Header
+  name: Cabeçalho de Resposta
 - uid: response.code
-  name: Response Code
+  name: Código de Resposta
 - uid: theme.light
-  name: Light
+  name: Claro
 - uid: theme.dark
-  name: Dark
+  name: Escuro
 - uid: edit
-  name: Edit
+  name: Editar
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Share
+  name: Partilhar
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: Platform
+  name: Plataforma
 - uid: language
-  name: Language
+  name: Linguagem
 - uid: theme
-  name: Theme
+  name: Tema
 - uid: options
-  name: Options
+  name: Opções
 - uid: more
-  name: More
+  name: Mais
 - uid: author.name
-  name: Author Name
+  name: Nome do Autor
 ...
