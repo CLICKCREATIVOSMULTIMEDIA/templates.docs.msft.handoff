@@ -1,12 +1,12 @@
 ---
 - uid: privacy.statement
-  name: Privacy & Cookies
+  name: Adatvédelem és cookie-k
 - uid: terms.of.use
-  name: Terms of Use
+  name: Használati feltételek
 - uid: impressum.text
-  name: Impressum
+  name: Impresszum
 - uid: trademarks
-  name: Trademarks
+  name: Védjegyek
 - uid: feedback
-  name: Feedback
+  name: Visszajelzés
 ...
