@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: Jetzt testen!
 - uid: test.request
-  name: Test Request
+  name: Testanforderung
 - uid: sample.request
-  name: Sample Request
+  name: Beispielanforderung
 - uid: sample.response
-  name: Sample Response
+  name: Beispielantwort
 - uid: response.header
-  name: Response Header
+  name: Antwortheader
 - uid: response.code
-  name: Response Code
+  name: Antwortcode
 - uid: theme.light
-  name: Light
+  name: Hell
 - uid: theme.dark
-  name: Dark
+  name: Dunkel
 - uid: edit
-  name: Edit
+  name: Bearbeiten
 - uid: view.source
   name: View.Source
 - uid: share
-  name: Share
+  name: Freigabe
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: Platform
+  name: Plattform
 - uid: language
-  name: Language
+  name: Sprache
 - uid: theme
-  name: Theme
+  name: Design
 - uid: options
-  name: Options
+  name: Optionen
 - uid: more
-  name: More
+  name: Mehr
 - uid: author.name
-  name: Author Name
+  name: Name des Autors
 ...
