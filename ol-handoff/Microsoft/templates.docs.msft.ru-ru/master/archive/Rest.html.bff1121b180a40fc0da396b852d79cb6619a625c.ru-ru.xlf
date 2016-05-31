@@ -5,8 +5,8 @@
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
       </xliffext:oltranslationpriority>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">yml\Rest.html.yml</xliffext:olfilepath>
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c97a808e431cf645a05f899e1031d2052b78306b</xliffext:olfilehash>
-      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4f63239" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">734347801e1205535234f53cbd260366097e3485</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
     </header>
     <body>
       <group id="content" extype="content">
@@ -47,8 +47,8 @@
           <target state="new">Edit</target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>View.Source</source>
-          <target state="new">View.Source</target>
+          <source>View Source</source>
+          <target state="new">View Source</target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>Share</source>
