@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: Testa!
 - uid: test.request
-  name: Test Request
+  name: Testbegäran
 - uid: sample.request
-  name: Sample Request
+  name: Exempelbegäran
 - uid: sample.response
-  name: Sample Response
+  name: Exempelsvar
 - uid: response.header
-  name: Response Header
+  name: Svarshuvud
 - uid: response.code
-  name: Response Code
+  name: Svarskod
 - uid: theme.light
-  name: Light
+  name: Ljus
 - uid: theme.dark
-  name: Dark
+  name: Mörk
 - uid: edit
-  name: Edit
+  name: Redigera
 - uid: view.source
-  name: View Source
+  name: Visa källa
 - uid: share
-  name: Share
+  name: Dela
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: Platform
+  name: Plattform
 - uid: language
-  name: Language
+  name: Språk
 - uid: theme
-  name: Theme
+  name: Tema
 - uid: options
-  name: Options
+  name: Alternativ
 - uid: more
-  name: More
+  name: Mer
 - uid: author.name
-  name: Author Name
+  name: Författarens namn
 ...
