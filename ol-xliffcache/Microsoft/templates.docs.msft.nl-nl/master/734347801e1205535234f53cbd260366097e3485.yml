@@ -1,26 +1,26 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: Probeer het!
 - uid: test.request
-  name: Test Request
+  name: Testaanvraag
 - uid: sample.request
-  name: Sample Request
+  name: Voorbeeldaanvraag
 - uid: sample.response
-  name: Sample Response
+  name: Voorbeeldreactie
 - uid: response.header
-  name: Response Header
+  name: Reactieheader
 - uid: response.code
-  name: Response Code
+  name: Reactiecode
 - uid: theme.light
-  name: Light
+  name: Licht
 - uid: theme.dark
-  name: Dark
+  name: Donker
 - uid: edit
-  name: Edit
+  name: Bewerken
 - uid: view.source
-  name: View Source
+  name: Bron weergeven
 - uid: share
-  name: Share
+  name: Delen
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -28,13 +28,13 @@
 - uid: platform
   name: Platform
 - uid: language
-  name: Language
+  name: Taal
 - uid: theme
-  name: Theme
+  name: Thema
 - uid: options
-  name: Options
+  name: Opties
 - uid: more
-  name: More
+  name: Meer
 - uid: author.name
-  name: Author Name
+  name: Naam van auteur
 ...
