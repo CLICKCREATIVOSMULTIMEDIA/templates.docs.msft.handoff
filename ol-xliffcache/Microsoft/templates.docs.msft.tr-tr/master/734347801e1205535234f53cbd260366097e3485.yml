@@ -1,26 +1,26 @@
 ---
 - uid: try.it
-  name: Try It!
+  name: Deneyin!
 - uid: test.request
-  name: Test Request
+  name: Test İsteği
 - uid: sample.request
-  name: Sample Request
+  name: Örnek İstek
 - uid: sample.response
-  name: Sample Response
+  name: Örnek Yanıt
 - uid: response.header
-  name: Response Header
+  name: Yanıt Üst Bilgisi
 - uid: response.code
-  name: Response Code
+  name: Yanıt Kodu
 - uid: theme.light
-  name: Light
+  name: Açık
 - uid: theme.dark
-  name: Dark
+  name: Koyu
 - uid: edit
-  name: Edit
+  name: Düzenle
 - uid: view.source
-  name: View Source
+  name: Kaynağı Görüntüle
 - uid: share
-  name: Share
+  name: Paylaş
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -28,13 +28,13 @@
 - uid: platform
   name: Platform
 - uid: language
-  name: Language
+  name: Dil
 - uid: theme
-  name: Theme
+  name: Tema
 - uid: options
-  name: Options
+  name: Seçenekler
 - uid: more
-  name: More
+  name: Daha fazla
 - uid: author.name
-  name: Author Name
+  name: Yazar Adı
 ...
