@@ -28,7 +28,7 @@
 - uid: in.this.article
   name: 本文内容
 - uid: min.to.read
-  name: 最小读取
+  name: 分钟阅读时长
 - uid: contributors
   name: 作者
 - uid: product.feedback
