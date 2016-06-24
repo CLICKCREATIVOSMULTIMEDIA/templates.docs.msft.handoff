@@ -28,7 +28,7 @@
 - uid: in.this.article
   name: この記事の内容
 - uid: min.to.read
-  name: 読むのにかかる時間 (分)
+  name: 分 (所要時間)
 - uid: contributors
   name: 共同作成者
 - uid: product.feedback
