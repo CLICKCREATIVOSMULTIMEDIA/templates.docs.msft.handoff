@@ -1,12 +1,12 @@
 ---
 - uid: privacy.statement
-  name: Gizlilik ve Tanımlama Bilgileri
+  name: Privacy & Cookies
 - uid: terms.of.use
-  name: Kullanım Koşulları
+  name: Terms of Use
 - uid: impressum.text
   name: Impressum
 - uid: trademarks
-  name: Ticari Markalar
+  name: Trademarks
 - uid: feedback
-  name: Geri Bildirim
+  name: Feedback
 ...
