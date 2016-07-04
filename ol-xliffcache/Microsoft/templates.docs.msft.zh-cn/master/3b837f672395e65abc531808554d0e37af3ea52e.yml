@@ -1,12 +1,12 @@
 ---
 - uid: privacy.statement
-  name: 隐私和 Cookie
+  name: Privacy & Cookies
 - uid: terms.of.use
-  name: 使用条款
+  name: Terms of Use
 - uid: impressum.text
   name: Impressum
 - uid: trademarks
-  name: 商标
+  name: Trademarks
 - uid: feedback
-  name: 反馈
+  name: Feedback
 ...

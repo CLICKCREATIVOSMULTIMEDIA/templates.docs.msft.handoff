@@ -1,14 +1,14 @@
 ---
 - uid: theme.light
-  name: 亮
+  name: Light
 - uid: theme.dark
-  name: 暗
+  name: Dark
 - uid: edit
-  name: 编辑
+  name: Edit
 - uid: view.source
-  name: 查看来源
+  name: View Source
 - uid: share
-  name: 共享
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -16,19 +16,19 @@
 - uid: slack
   name: Slack
 - uid: platform
-  name: 平台
+  name: Platform
 - uid: language
-  name: 语言
+  name: Language
 - uid: theme
-  name: 主题
+  name: Theme
 - uid: options
-  name: 选项
+  name: Options
 - uid: more
-  name: 更多
+  name: More
 - uid: author.name
-  name: 作者姓名
+  name: Author Name
 - uid: in.this.article
-  name: 本文内容
+  name: In this article
 - uid: product.feedback
-  name: 要提交产品反馈，请访问
+  name: To submit product feedback, please visit
 ...
