@@ -1,40 +1,40 @@
 ---
 - uid: try.it
-  name: 사용해 보세요!
+  name: Try It!
 - uid: test.request
-  name: 테스트 요청
+  name: Test Request
 - uid: sample.request
-  name: 샘플 요청
+  name: Sample Request
 - uid: sample.response
-  name: 샘플 응답
+  name: Sample Response
 - uid: response.header
-  name: 응답 헤더
+  name: Response Header
 - uid: response.code
-  name: 응답 코드
+  name: Response Code
 - uid: theme.light
-  name: 밝음
+  name: Light
 - uid: theme.dark
-  name: 어두움
+  name: Dark
 - uid: edit
-  name: 편집
+  name: Edit
 - uid: view.source
-  name: 소스 보기
+  name: View Source
 - uid: share
-  name: 공유
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
   name: Facebook
 - uid: platform
-  name: 플랫폼
+  name: Platform
 - uid: language
-  name: 언어
+  name: Language
 - uid: theme
-  name: 테마
+  name: Theme
 - uid: options
-  name: 옵션
+  name: Options
 - uid: more
-  name: 자세히
+  name: More
 - uid: author.name
-  name: 작성자 이름
+  name: Author Name
 ...

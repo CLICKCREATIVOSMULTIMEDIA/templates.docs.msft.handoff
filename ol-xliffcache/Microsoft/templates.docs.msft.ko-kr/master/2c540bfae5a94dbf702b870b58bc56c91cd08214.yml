@@ -1,20 +1,20 @@
 ---
 - uid: theme.light
-  name: 밝음
+  name: Light
 - uid: theme.dark
-  name: 어두움
+  name: Dark
 - uid: theme
-  name: 테마
+  name: Theme
 - uid: comments
-  name: 의견
+  name: Comments
 - uid: edit
-  name: 편집
+  name: Edit
 - uid: editdesc
-  name: 이 문서 편집
+  name: Edit This Document
 - uid: share
-  name: 공유
+  name: Share
 - uid: sharedesc
-  name: 이 문서 공유
+  name: Share This Document
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -22,15 +22,15 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: 옵션
+  name: Options
 - uid: author.name
-  name: 작성자 이름
+  name: Author Name
 - uid: in.this.article
-  name: 이 문서의 내용
+  name: In this article
 - uid: min.to.read
-  name: 읽는 시간(분)
+  name: min to read
 - uid: contributors
-  name: 참가자
+  name: Contributors
 - uid: product.feedback
-  name: 제품 피드백을 제출하려면 다음을 방문하세요.
+  name: To submit product feedback, please visit
 ...
