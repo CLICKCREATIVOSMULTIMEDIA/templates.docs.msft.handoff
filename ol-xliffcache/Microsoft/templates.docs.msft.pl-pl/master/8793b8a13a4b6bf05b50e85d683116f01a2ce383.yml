@@ -1,34 +1,34 @@
 ---
 - uid: theme.light
-  name: Jasny
+  name: Light
 - uid: theme.dark
-  name: Ciemny
+  name: Dark
 - uid: edit
-  name: Edytuj
+  name: Edit
 - uid: view.source
-  name: Wyświetl źródło
+  name: View Source
 - uid: share
-  name: Udostępnij
+  name: Share
 - uid: twitter
   name: Twitter
 - uid: facebook
-  name: Serwis Facebook
+  name: Facebook
 - uid: slack
   name: Slack
 - uid: platform
-  name: Platforma
+  name: Platform
 - uid: language
-  name: Język
+  name: Language
 - uid: theme
-  name: Motyw
+  name: Theme
 - uid: options
-  name: Opcje
+  name: Options
 - uid: more
-  name: Więcej
+  name: More
 - uid: author.name
-  name: Nazwa autora
+  name: Author Name
 - uid: in.this.article
-  name: W tym artykule
+  name: In this article
 - uid: product.feedback
-  name: Aby przesłać opinię na temat produktu, przejdź na stronę
+  name: To submit product feedback, please visit
 ...

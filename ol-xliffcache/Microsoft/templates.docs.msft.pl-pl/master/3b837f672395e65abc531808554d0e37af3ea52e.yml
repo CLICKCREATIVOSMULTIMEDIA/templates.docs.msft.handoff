@@ -1,12 +1,12 @@
 ---
 - uid: privacy.statement
-  name: Prywatność i pliki cookie
+  name: Privacy & Cookies
 - uid: terms.of.use
-  name: Warunki użytkowania
+  name: Terms of Use
 - uid: impressum.text
   name: Impressum
 - uid: trademarks
-  name: Znaki towarowe
+  name: Trademarks
 - uid: feedback
-  name: Opinia
+  name: Feedback
 ...
