@@ -1,12 +1,12 @@
 ---
 - uid: privacy.statement
-  name: Privacy & Cookies
+  name: Конфиденциальность и файлы cookie
 - uid: terms.of.use
-  name: Terms of Use
+  name: Условия использования
 - uid: impressum.text
   name: Impressum
 - uid: trademarks
-  name: Trademarks
+  name: Товарные знаки
 - uid: feedback
-  name: Feedback
+  name: Обратная связь
 ...
