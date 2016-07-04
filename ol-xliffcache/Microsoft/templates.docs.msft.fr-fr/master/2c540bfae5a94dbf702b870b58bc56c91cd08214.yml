@@ -1,20 +1,20 @@
 ---
 - uid: theme.light
-  name: Clair
+  name: Light
 - uid: theme.dark
-  name: Sombre
+  name: Dark
 - uid: theme
-  name: Thème
+  name: Theme
 - uid: comments
-  name: Commentaires
+  name: Comments
 - uid: edit
-  name: Modifier
+  name: Edit
 - uid: editdesc
-  name: Modifier ce document
+  name: Edit This Document
 - uid: share
-  name: Partager
+  name: Share
 - uid: sharedesc
-  name: Partager ce document
+  name: Share This Document
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -24,13 +24,13 @@
 - uid: options
   name: Options
 - uid: author.name
-  name: Nom de l’auteur
+  name: Author Name
 - uid: in.this.article
-  name: Dans cet article
+  name: In this article
 - uid: min.to.read
-  name: minutes de lecture
+  name: min to read
 - uid: contributors
-  name: Contributeurs
+  name: Contributors
 - uid: product.feedback
-  name: Pour envoyer vos commentaires sur le produit, consultez
+  name: To submit product feedback, please visit
 ...
