@@ -2,13 +2,13 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: Genom att använda den här webbplatsen godkänner du användningen av cookies för analys, anpassat innehåll och annonser.
+  name: By using this site you agree to the use of cookies for analytics, personalized content and ads.
 - uid: learnmore
-  name: Läs mer
+  name: Learn more
 - uid: privacystatement
-  name: Sekretesspolicy
+  name: Privacy Statement
 - uid: close
-  name: stäng
+  name: close
 - uid: subheader.aboutdocs
-  name: Om docs.microsoft.com
+  name: About docs.microsoft.com
 ...
