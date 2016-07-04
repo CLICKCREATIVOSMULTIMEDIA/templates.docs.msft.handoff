@@ -2,13 +2,13 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: Utilizzando il sito si accetta l'uso di cookie per analisi, risultati personalizzati e pubblicità.
+  name: By using this site you agree to the use of cookies for analytics, personalized content and ads.
 - uid: learnmore
-  name: Altre informazioni
+  name: Learn more
 - uid: privacystatement
-  name: Informativa sulla privacy
+  name: Privacy Statement
 - uid: close
-  name: chiudi
+  name: close
 - uid: subheader.aboutdocs
-  name: Informazioni su docs.microsoft.com
+  name: About docs.microsoft.com
 ...

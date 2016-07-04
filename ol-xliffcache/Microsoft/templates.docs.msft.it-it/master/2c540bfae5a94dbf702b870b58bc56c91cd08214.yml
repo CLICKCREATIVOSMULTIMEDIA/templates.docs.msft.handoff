@@ -1,20 +1,20 @@
 ---
 - uid: theme.light
-  name: Chiaro
+  name: Light
 - uid: theme.dark
-  name: Scuro
+  name: Dark
 - uid: theme
-  name: Tema
+  name: Theme
 - uid: comments
-  name: Commenti
+  name: Comments
 - uid: edit
-  name: Modifica
+  name: Edit
 - uid: editdesc
-  name: Modifica documento
+  name: Edit This Document
 - uid: share
-  name: Condivisione
+  name: Share
 - uid: sharedesc
-  name: Condividi documento
+  name: Share This Document
 - uid: twitter
   name: Twitter
 - uid: facebook
@@ -22,15 +22,15 @@
 - uid: slack
   name: Slack
 - uid: options
-  name: Opzioni
+  name: Options
 - uid: author.name
-  name: Nome autore
+  name: Author Name
 - uid: in.this.article
-  name: In questo articolo
+  name: In this article
 - uid: min.to.read
-  name: minuti per la lettura
+  name: min to read
 - uid: contributors
-  name: Autori di contributi
+  name: Contributors
 - uid: product.feedback
-  name: Per inviare commenti e suggerimenti sul prodotto, visita la pagina
+  name: To submit product feedback, please visit
 ...
