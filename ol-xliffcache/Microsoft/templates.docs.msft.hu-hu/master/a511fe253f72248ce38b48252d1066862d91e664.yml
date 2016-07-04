@@ -2,13 +2,13 @@
 - uid: microsoft
   name: Microsoft
 - uid: cookie.consent.europe
-  name: A webhely használatával beleegyezik, hogy az elemzésekhez, a személyre szabott tartalmakhoz, valamint a hirdetésekhez cookie-kat használjunk.
+  name: By using this site you agree to the use of cookies for analytics, personalized content and ads.
 - uid: learnmore
-  name: Részletek
+  name: Learn more
 - uid: privacystatement
-  name: Adatvédelmi nyilatkozat
+  name: Privacy Statement
 - uid: close
-  name: bezárás
+  name: close
 - uid: subheader.aboutdocs
-  name: Tudnivalók – docs.microsoft.com
+  name: About docs.microsoft.com
 ...
